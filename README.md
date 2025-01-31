@@ -62,7 +62,7 @@
 
   
    
-   <a href="https://github.com/Stanking11/STANY-TECH-XMD/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=red&style=for-the-badge&logo=tesla"/></a></p>
+   <a href="https://github.com/Stanking11/STANY-TECH-XMD/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=red&style=for-the-badge&logo=github"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -82,17 +82,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
 
 
- 𝙒𝘼𝙍𝙉𝙄𝙉𝙂⚠️𝘿𝙊𝙉𝙏🚫𝘾𝙇𝙊𝙉𝙀⚠️𝙈𝙔 𝘽𝙊𝙏🚫
+ 𝙒𝘼𝙍𝙉𝙄𝙉𝙂⚠️𝘿𝙊𝙉𝙏🚫𝘾𝙇𝙊𝙉𝙀⚠️𝙈𝙔 𝘽𝙊𝙏
 
  
 ## 𝐅𝐎𝐑 𝐎𝐍𝐄-𝐓𝐀𝐏 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
 
- 🕳IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE👇
+ 😃✌️IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE👇
    
 
    <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=purple&style=for-the-badge&logo=heroku"/></a></p>
 
-☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW👇
+😃✌️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW👇
 
 <a href="https://dashboard.heroku.com/new?template=https://github.com/Stanking11/STANY-TECH-XMD"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku"/></a>
 
@@ -101,7 +101,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-😁𝗦𝗧𝗔𝗡𝗬 𝗧𝗘𝗖𝗛 𝗫𝗠𝗗 𝗥𝗘𝗔𝗟𝗘𝗦𝗘𝗗 𝟭/𝟮/𝟮𝟬𝟮𝟱
+😁𝗦𝗧𝗔𝗡𝗬 𝗧𝗘𝗖𝗛 𝗫𝗠𝗗 𝗥𝗘𝗔𝗟𝗘𝗦𝗘𝗗 𝟮𝟬𝟮𝟱
 
 𝙹𝙾𝙸𝙽 𝙸𝙽 𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿
 

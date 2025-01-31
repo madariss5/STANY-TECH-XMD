@@ -15,10 +15,6 @@
 
 😌😌😌😌😌😌😌😌😌😌😌😌😌😌😌😌
 
-❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
-
-💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=F01&lines=true&vCenter=true&width=815&height=100&lines=𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛+𝗫𝐌𝐃+✌️+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
 
  <a 
@@ -58,25 +54,22 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+𝙒𝘼𝙍𝙉𝙄𝙉𝙂 𝘿𝙊𝙉𝙏 𝘾𝙇𝙊𝙉𝙀 𝙈𝙔 𝘽𝙊𝙏
  
  𝙂𝙀𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝘿 𝙃𝙀𝙍𝙀,😁
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
  
-
+𝙒𝘼𝙍𝙉𝙄𝙉𝙂 𝘿𝙊𝙉𝙏 𝘾𝙇𝙊𝙉𝙀 𝙈𝙔 𝘽𝙊𝙏
 
   <a href="https://enzo-md-sessions-generator-2.onrender.com/pair"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=red&style=for-the-badge&logo=nike"/></a></p>
 
+𝙒𝘼𝙍𝙉𝙄𝙉𝙂 𝘿𝙊𝙉𝙏 𝘾𝙇𝙊𝙉𝙀 𝙈𝙔 𝘽𝙊𝙏
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
 
 
- 𝙒𝘼𝙍𝙉𝙄𝙉𝙂 𝘿𝙊𝙉𝙏 𝘾𝙇𝙊𝙉𝙀 𝙈𝙔 𝘽𝙊𝙏
-  🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫
-  
-  🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫
-  
-  🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫
+ 𝙒𝘼𝙍𝙉𝙄𝙉𝙂⚠️𝘿𝙊𝙉𝙏🚫𝘾𝙇𝙊𝙉𝙀⚠️𝙈𝙔 𝘽𝙊𝙏🚫
 
  
 ## 𝐅𝐎𝐑 𝐎𝐍𝐄-𝐓𝐀𝐏 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍

@@ -20,23 +20,6 @@
 ## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 STANY-TECH X𝐌𝐃 𝐁𝐎𝐓 
 
 
-<p align="center">
-<a href="https://github.com/Stanking11/followers"><img title="Followers" src="https://img.shields.io/github/followers/Stanking11/STANY-TECH-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Stanking11/STANY-TECH-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Stanking11/STANY-TECH-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Stanking11/STANY-TECH-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Stanking11/STANY-TECH-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Stanking11/STANY-TECH-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/Stanking11/STANY-TECH-XMD?style=flat-square&color=blue"></a>
-<a href="https://github.com/Stanking11/STANY-TECH-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-</p>
-
- <p align="center"><img src="https://profile-counter.glitch.me/{STANY-TECH-XMD}/count.svg" alt="Stanking11:: Visitor's Count" old_src="https://profile-counter.glitch.me/{stanking11}/count.svg" /></p>
-
-
-
-
-
-
 ## 𝙎𝙏𝘼𝙍𝙏 𝙉𝙊𝙒 😃😃😃😃😃𝙁𝙊𝙍𝙆 𝘼𝙉𝘿 𝙎𝙏𝘼𝙍
 
   

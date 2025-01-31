@@ -5,12 +5,14 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F03&lines=😃+𝗢𝗡+𝗔𝗜𝗥+𝟮𝟬𝟮𝟱+𝗕𝗬+𝗦𝗧𝗔𝗡𝗟𝗘𝗬+𝗝𝗨𝗡𝗜𝗢𝗥+𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥+𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗜𝗢𝗡+𝗢𝗙+𝗬𝗘𝗦𝗦𝗘𝗥+𝗠𝗗+𝗢𝗪𝗡𝗘𝗥+𝗪𝗘𝗟𝗖𝗢𝗠𝗘+𝗗𝗘𝗣𝗟𝗢𝗬+𝗔𝗡𝗗+𝗘𝗡𝗝𝗢𝗬+𝗡𝗘𝗪+𝗕𝗢𝗧+😃)](https://git.io/typing-svg)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
+<a
+href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝗦𝗧𝗔𝗡𝗬𝗧𝗘𝗖𝗛+𝗫𝗠𝗗+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+©𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛𝗦𝗨𝗣𝗣𝗢𝗥T;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+©𝗦𝗧𝗔𝗡𝗟𝗘𝗬+𝗠𝗔𝗦𝗔𝗡𝗬𝗜𝗪𝗔;𝐌𝐑:+☬𝔻𝔸ℝ𝕂😃𝗦𝗧𝗔𝗡𝗬+𝗧𝗘𝗖𝗛-𝗫𝗠𝗗😃;𝙼𝙾𝚁𝙳𝙴𝙼 𝙱𝙾𝚃;😁𝐰𝐚+𝐛𝐨𝐭😁.&heart;++;Self-taught+Back-Created+By,;𝚂𝚃𝙰𝙽𝙻𝙴𝚈+𝙼𝙰𝚂𝙰𝙽𝚈𝙸𝚆𝙰+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a 
+
 𝐓𝐇𝐄 𝐁𝐎𝐓 𝐈𝐒 100% 𝐒𝐀𝐅𝐄 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=100&lines=𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛+𝗫𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝗦𝗧𝗔𝗡𝗬𝗧𝗘𝗖𝗛)](https://git.io/typing-svg) 
 
-<a
-href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝗦𝗧𝗔𝗡𝗬𝗧𝗘𝗖𝗛+𝗫𝗠𝗗+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+©𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛𝗦𝗨𝗣𝗣𝗢𝗥T;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+©𝗦𝗧𝗔𝗡𝗟𝗘𝗬+𝗠𝗔𝗦𝗔𝗡𝗬𝗜𝗪𝗔;𝐌𝐑:+☬𝔻𝔸ℝ𝕂😃𝗦𝗧𝗔𝗡𝗬+𝗧𝗘𝗖𝗛-𝗫𝗠𝗗😃;𝙼𝙾𝚁𝙳𝙴𝙼 𝙱𝙾𝚃;😁𝐰𝐚+𝐛𝐨𝐭😁.&heart;++;Self-taught+Back-Created+By,;𝚂𝚃𝙰𝙽𝙻𝙴𝚈+𝙼𝙰𝚂𝙰𝙽𝚈𝙸𝚆𝙰+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a 
 
 <p align="centre"><img src="https://files.catbox.moe/c4svxo.jpg" width="500" heigh

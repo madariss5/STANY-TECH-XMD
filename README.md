@@ -9,11 +9,15 @@
 
 𝘽𝙊𝙏 𝙄𝙎 𝙎𝘼𝙁𝙀 𝙊𝙉 𝙃𝙀𝙍𝙊𝙆𝙐 𝙉𝙊 𝘽𝙐𝙍𝙉𝙎
 
-🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿
+😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃
 
-💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓💓
+✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️
 
 😌😌😌😌😌😌😌😌😌😌😌😌😌😌😌😌
+
+❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+
+💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=F01&lines=true&vCenter=true&width=815&height=100&lines=𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛+𝗫𝐌𝐃+✌️+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
 
@@ -67,8 +71,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
 
 
- 
+ 𝙒𝘼𝙍𝙉𝙄𝙉𝙂 𝘿𝙊𝙉𝙏 𝘾𝙇𝙊𝙉𝙀 𝙈𝙔 𝘽𝙊𝙏
+  🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫
   
+  🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫
+  
+  🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫
 
  
 ## 𝐅𝐎𝐑 𝐎𝐍𝐄-𝐓𝐀𝐏 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍

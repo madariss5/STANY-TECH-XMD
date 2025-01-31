@@ -95,8 +95,7 @@
 🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗
 
 ##𝗪𝗛𝗔𝗧'𝗦 𝗔𝗣𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟😃
-Stay updated with our WhatsApp channel:
-<A href="https://whatsapp.com/channel/0029VaxKouY7tkj8NiPg0t45" target="_blank">
+Stay updated with our WhatsApp channel:<A href="https://whatsapp.com/channel/0029VaxKouY7tkj8NiPg0t45" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ STANY-TECH CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 💕𝗪𝗛𝗔𝗧'𝗦 𝗔𝗣𝗣 𝗚𝗥𝗢𝗨𝗟

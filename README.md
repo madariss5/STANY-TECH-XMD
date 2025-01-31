@@ -13,7 +13,7 @@
 
 😌😌😌😌😌😌😌😌😌😌😌😌😌😌😌😌
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=F01&lines=true&vCenter=true&width=815&height=100&lines=𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛+𝗫𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝗦𝗧𝗔𝗡𝗬𝗧𝗘𝗖𝗛)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=100&pause=1000&color=F01&lines=true&vCenter=true&width=815&height=100&lines=𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛+𝗫𝐌𝐃+✌️+2025)](https://git.io/typing-svg) 
 
  <a 
 

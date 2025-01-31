@@ -1,8 +1,8 @@
    𝗦𝗧𝗔𝗡𝗬 𝗧𝗘𝗖𝗛 𝗫𝗠𝗗 𝗕𝗢𝗧 𝟮𝟬𝟮𝟱
 
- ⚠️               😃            ⚠️
+    ⚠️               😃            ⚠️
 
-😃      😃      😃     😃    😃      😃
+
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=😃+𝗢𝗡+𝗔𝗜𝗥+𝟮𝟬𝟮𝟱+BY+𝗦𝗧𝗔𝗡𝗟𝗘𝗬+😃+✌️)](https://git.io/typing-svg)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">

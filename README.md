@@ -4,7 +4,7 @@
 
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50color=F01&lines=😃+𝗢𝗡+𝗔𝗜𝗥+𝟮𝟬𝟮𝟱+BY+𝗦𝗧𝗔𝗡𝗟𝗘𝗬+😃+✌️)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=F01&lines=😃+𝗢𝗡+𝗔𝗜𝗥+𝟮𝟬𝟮𝟱+BY+𝗦𝗧𝗔𝗡𝗟𝗘𝗬+😃+✌️)](https://git.io/typing-svg)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 𝘽𝙊𝙏 𝙄𝙎 𝙎𝘼𝙁𝙀 𝙊𝙉 𝙃𝙀𝙍𝙊𝙆𝙐 𝙉𝙊 𝘽𝙐𝙍𝙉𝙎

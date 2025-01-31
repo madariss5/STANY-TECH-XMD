@@ -35,23 +35,23 @@
 ## 𝙎𝙏𝘼𝙍𝙏 𝙉𝙊𝙒 😃😃😃😃😃𝙁𝙊𝙍𝙆 𝘼𝙉𝘿 𝙎𝙏𝘼𝙍
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red+yellow&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  
 
   
    
-   <a href="https://github.com/Stanking11/STANY-TECH-XMD/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=tesla" width="100" height="55.35"/></a></p>
+   <a href="https://github.com/Stanking11/STANY-TECH-XMD/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=red&style=for-the-badge&logo=tesla" width="100" height="55.35"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  
  𝙂𝙀𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝘿 𝙃𝙀𝙍𝙀,😁
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
  
 
 
-  <a href="https://enzo-md-sessions-generator-2.onrender.com/pair"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="100" height="68.55"/></a></p>
+  <a href="https://enzo-md-sessions-generator-2.onrender.com/pair"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=red&style=for-the-badge&logo=nike" width="100" height="55.35"/></a></p>
 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

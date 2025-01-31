@@ -70,7 +70,7 @@
 
 ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/Stanking11/STANY-TECH-XMD"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="100" height="55.45"/></a></p>
+[![🅗︎🅔︎🅡︎🅞︎🅚︎🅤︎ 🅓︎🅔︎🅟︎🅛︎🅞︎🅨︎🅜︎🅔︎🅝︎🅣︎](https://img.shields.io/badge/Deploy-Heroku-purple?style=for-the-badge)](https://heroku.com/deploy?template=https://github.com/Stanking11/STANY-TECH-XMD)  
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 

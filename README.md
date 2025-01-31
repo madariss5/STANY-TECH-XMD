@@ -1,5 +1,6 @@
   𝗦𝗧𝗔𝗡𝗬 𝗧𝗘𝗖𝗛 𝗫𝗠𝗗 𝗕𝗢𝗧
-  😃 𝗦𝗔𝗙𝗘 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨 😃
+
+  ✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=😃+ON+AIR+2025+BY+STANLEY+😃+✌️)](https://git.io/typing-svg)

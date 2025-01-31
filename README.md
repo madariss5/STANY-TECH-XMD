@@ -95,7 +95,7 @@
 🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗
 
 ##𝗪𝗛𝗔𝗧'𝗦 𝗔𝗣𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟😃
-Stay updated with our WhatsApp channel:  [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-green+yellow?style=for-the-badge)](https://whatsapp.com/channel/0029VaxKouY7tkj8NiPg0t45)
+Stay updated with our WhatsApp channel:  [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-green+yellow?style=for-the-badge=what'sapp)](https://whatsapp.com/channel/0029VaxKouY7tkj8NiPg0t45)
 
 💕𝗪𝗛𝗔𝗧'𝗦 𝗔𝗣𝗣 𝗚𝗥𝗢𝗨𝗟
 Join our WhatsApp group to connect with the community:  

@@ -54,10 +54,10 @@
 𝟼🙏𝙸 𝙻𝙾𝚅𝙴 𝚈𝙾𝚄 𝙰𝙻𝙻 𝙼𝚈 𝚂𝚄𝙿𝙿𝙾𝚃𝙴𝚁𝚂
 
 
-## 𝙎𝙏𝘼𝙍𝙏 𝙉𝙊𝙒 😃😃😃😃😃𝙁𝙊𝙍𝙆 𝘼𝙉𝘿 𝙎𝙏𝘼𝙍
+## 𝙎𝙏𝘼𝙍𝙏 𝙉𝙊𝙒 😃✌️👇
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red+yellow&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  
 
   

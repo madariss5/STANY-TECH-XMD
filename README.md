@@ -3,8 +3,9 @@
       ⚠️           😃          ⚠️
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=RRGGBB&lines=true&vCenter=true&width=815&height=100&lines=ON+AIR+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFFF00&lines=😃+𝗢𝗡+𝗔𝗜𝗥+𝟮𝟬𝟮𝟱+BY+𝗦𝗧𝗔𝗡𝗟𝗘𝗬+😃+✌️)](https://git.io/typing-svg)
+
 
 <a
    src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">

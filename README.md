@@ -77,22 +77,24 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## FINAL REMARKS ON MY REPO (STATS)
-
-![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=Stanking11&repo=STANY-TECH-XMD&show_owner=true&theme=dark)
+😁𝗦𝗧𝗔𝗡𝗬 𝗧𝗘𝗖𝗛 𝗫𝗠𝗗 𝗥𝗘𝗔𝗟𝗘𝗦𝗘𝗗 𝟭/𝟮/𝟮𝟬𝟮𝟱
 
 𝙹𝙾𝙸𝙽 𝙸𝙽 𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿
+
 𝙾𝚄𝚁 𝙲𝙷𝙰𝙽𝙴𝙻𝙻
+
 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 𝙵𝙾𝚁 𝙰𝙽𝚈 𝙿𝚁𝙾𝙱𝙻𝙴𝙼
+
 𝙳𝙴𝙿𝙻𝙾𝚈 𝚂𝙷𝙰𝚁𝙴 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 𝚄𝚂𝙸𝙽𝙶
+
 𝚂𝚃𝙰𝙽𝚈 𝚃𝙴𝙲𝙷 𝚇𝙼𝙳 𝙱𝙾𝚃
+
 🚙🚙🚙🚙🚙🚙🚙🚙🚙🚙🚙🚙🚙
+
 🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗
 
-
 ##𝗪𝗛𝗔𝗧'𝗦 𝗔𝗣𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟😃
-Stay updated with our WhatsApp channel:  
-[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-green+yellow?style=for-the-badge)](https://whatsapp.com/channel/0029VaxKouY7tkj8NiPg0t45)
+Stay updated with our WhatsApp channel:  [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-green+yellow?style=for-the-badge)](https://whatsapp.com/channel/0029VaxKouY7tkj8NiPg0t45)
 
 💕𝗪𝗛𝗔𝗧'𝗦 𝗔𝗣𝗣 𝗚𝗥𝗢𝗨𝗟
 Join our WhatsApp group to connect with the community:  
@@ -101,10 +103,6 @@ Join our WhatsApp group to connect with the community:
 💪𝗬𝗢𝗨𝗧𝗨𝗕𝗘 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 
 Subscribe to our YouTube channel for the latest updates:  
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge)](https://youtube.com/@stanleytechnology?si=jQO3LPtvE92aw4fi)
-
-
-
-
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 

@@ -26,7 +26,7 @@
 
 
 <p align="center">
-<a href="https://github.com/Stanking11/followers"><img title="Followers" src="https://img.shields.io/github/followers/Stanking11/STANY-TECH-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Stanking11/followers"><img title="Followers" src="https://img.shields.io/github/followers/https://github.com/Stanking11/STANY-TECH-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Stanking11/STANY-TECH-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/STANY-TECH/STANY-TECH-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Stanking11/STANY-TECH-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/STANY-TECH/STANY-TECH-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Stanking11/STANY-TECH-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/Stanking11/STANY-TECH-XMD?style=flat-square&color=blue"></a>

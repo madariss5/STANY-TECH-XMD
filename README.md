@@ -40,7 +40,7 @@
 
   
    
-   <a href="https://github.com/Stanking11/STANY-TECH-XMD/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=red&style=for-the-badge&logo=tesla" width="100" height="55.35"/></a></p>
+   <a href="https://github.com/Stanking11/STANY-TECH-XMD/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=red&style=for-the-badge&logo=tesla"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -51,7 +51,7 @@
  
 
 
-  <a href="https://enzo-md-sessions-generator-2.onrender.com/pair"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=red&style=for-the-badge&logo=nike" width="100" height="55.35"/></a></p>
+  <a href="https://enzo-md-sessions-generator-2.onrender.com/pair"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=red&style=for-the-badge&logo=nike"/></a></p>
 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -64,11 +64,13 @@
  
 ## 𝐅𝐎𝐑 𝐎𝐍𝐄-𝐓𝐀𝐏 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
 
-   🕳IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
+ 🕳IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE👇
    
-   <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=purple&style=for-the-badge&logo=heroku" width="99" height="55.45"/></a></p>
 
-☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
+   <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=purple&style=for-the-badge&logo=heroku"/></a></p>
+
+☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW👇
+
 <a href="https://dashboard.heroku.com/new?template=https://github.com/Stanking11/STANY-TECH-XMD"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku"/></a>
 
  

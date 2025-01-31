@@ -1,9 +1,9 @@
 {
-  "name":"ENZO",
+  "name":"STANY-TECH-XMD",
   "description":"Best whatsapp bot developed by ENZO",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.ibb.co/hYF7XQw/IMG-20241019-WA0222.jpg",
-  "repository":"https://github.com/ENZOTECH2/ENZO-MD",
+  "logo":"https://files.catbox.moe/0ydsic.jpeg",
+  "repository":"https://github.com/Stanking11/STANY-TECH-XMD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝐄𝐍𝐙𝐎 𝐌𝐃",
+      "value":"𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛-𝗫𝗠𝗗",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.ibb.co/qMvsxL8/1680858151-752-x-1584.jpg",
+      "value":"https://files.catbox.moe/0ydsic.jpeg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐄𝐍𝐙𝐎 𝐓𝐄𝐂𝐇"
+    "value": "𝗦𝗧𝗔𝗡𝗬𝗞𝗜𝗡𝗚"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254784115308"
+    "value": "25𝟱𝟳𝟱𝟬𝟲𝟯𝟴𝟱𝟬𝟮,𝟮𝟱𝟱𝟲𝟭𝟮𝟮𝟴𝟱𝟬𝟰𝟭"
   },
     "WARN_COUNT":
   {

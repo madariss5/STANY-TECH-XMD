@@ -10,7 +10,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=100&lines=STANY-TECH+𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+STANYTECH)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=100&lines=𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛+𝗫𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝗦𝗧𝗔𝗡𝗬 𝗧𝗘𝗖𝗛)](https://git.io/typing-svg) 
 
 <p align="centre"><img src="https://files.catbox.moe/0ydsic.jpeg" width="500" height="350" />
 
@@ -42,7 +42,7 @@
 
 
 
-## 𝙎𝙏𝘼𝙍𝙏 𝙉𝙊𝙒 😃😃😃😃😃
+## 𝙎𝙏𝘼𝙍𝙏 𝙉𝙊𝙒 😃😃😃😃😃𝙁𝙊𝙍𝙆 𝘼𝙉𝘿 𝙎𝙏𝘼𝙍
 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
@@ -56,7 +56,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  
- 
+ 𝙂𝙀𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝘿 𝙃𝙀𝙍𝙀,😁
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
  
 

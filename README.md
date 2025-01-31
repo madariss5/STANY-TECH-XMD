@@ -9,7 +9,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=100&lines=𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛+𝗫𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝗦𝗧𝗔𝗡𝗬𝗧𝗘𝗖𝗛)](https://git.io/typing-svg) 
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝗦𝗧𝗔𝗡𝗬𝗧𝗘𝗖𝗛+𝗫𝗠𝗗+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+©𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛-𝗦𝗨𝗣𝗣𝗢𝗘𝗥;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+©𝗦𝗧𝗔𝗡𝗟𝗘𝗬+𝗠𝗔𝗦𝗔𝗡𝗬𝗜𝗪𝗔;𝐌𝐑:+☬𝔻𝔸ℝ𝕂😃𝗦𝗧𝗔𝗡𝗬+𝗧𝗘𝗖𝗛-𝗫𝗠𝗗😃;𝙼𝙾𝚁𝙳𝙴𝙼 𝙱𝙾𝚃;😁𝐰𝐚+𝐛𝐨𝐭😁.&heart;++;Self-taught+Back-Created+By,;𝚂𝚃𝙰𝙽𝙻𝙴𝚈+𝙼𝙰𝚂𝙰𝙽𝚈𝙸𝚆𝙰+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+<a
+href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝗦𝗧𝗔𝗡𝗬𝗧𝗘𝗖𝗛+𝗫𝗠𝗗+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+©𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛𝗦𝗨𝗣𝗣𝗢𝗥T;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+©𝗦𝗧𝗔𝗡𝗟𝗘𝗬+𝗠𝗔𝗦𝗔𝗡𝗬𝗜𝗪𝗔;𝐌𝐑:+☬𝔻𝔸ℝ𝕂😃𝗦𝗧𝗔𝗡𝗬+𝗧𝗘𝗖𝗛-𝗫𝗠𝗗😃;𝙼𝙾𝚁𝙳𝙴𝙼 𝙱𝙾𝚃;😁𝐰𝐚+𝐛𝐨𝐭😁.&heart;++;Self-taught+Back-Created+By,;𝚂𝚃𝙰𝙽𝙻𝙴𝚈+𝙼𝙰𝚂𝙰𝙽𝚈𝙸𝚆𝙰+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a 
 
 <p align="centre"><img src="https://files.catbox.moe/c4svxo.jpg" width="500" heigh

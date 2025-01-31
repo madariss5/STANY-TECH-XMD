@@ -111,11 +111,11 @@ Subscribe to our YouTube channel for the latest updates:
 ## 𝗖𝗢𝗠𝗠𝗨𝗡𝗜𝗖𝗔𝗧𝗘 𝗪𝗜𝗧𝗛 𝗦𝗧𝗔𝗡𝗬 𝗧𝗘𝗖𝗛 𝗛𝗘𝗥𝗘
   DM FOR SERIOUS BUSINESS
 
-   <a href="https://wa.link/m6nj8d"><img title="CONTACT-STANY KING" src="https://img.shields.io/badge/CONTACT-𝗦𝗧𝗔𝗡𝗬 𝗞𝗜𝗡𝗚-H? color=yellow+green&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
+   <a href="https://wa.link/0jgic1"><img title="CONTACT-STANY KING" src="https://img.shields.io/badge/CONTACT-𝗦𝗧𝗔𝗡𝗬 𝗞𝗜𝗡𝗚-H? color=yellow+green&style=for-the-badge&logo=audi" width="240" height="25.25"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 CONTACT DEVELOPER ON WHATSAPP 
 
 <a href="https://wa.link/m6nj8d" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/boniphace tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/STANY TECH contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 

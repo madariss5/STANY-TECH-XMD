@@ -89,7 +89,7 @@
 
 ## FINAL REMARKS ON MY REPO (STATS)
 
-![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=Stanking11&repo=STANY-TECH-XMD&show_owner=true&theme=dark)
+![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=Stanking11&repo=https://github.com/Stanking11/STANY-TECH-XMD&show_owner=true&theme=dark)
 
 
 

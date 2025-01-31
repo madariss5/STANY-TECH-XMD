@@ -1,6 +1,6 @@
-   𝗦𝗧𝗔𝗡𝗬 𝗧𝗘𝗖𝗛 𝗫𝗠𝗗 𝗕𝗢𝗧
+  𝗦𝗧𝗔𝗡𝗬 𝗧𝗘𝗖𝗛 𝗫𝗠𝗗 𝗕𝗢𝗧
   😃 𝗦𝗔𝗙𝗘 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨 😃
-
+https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𓅓+𝗥𝗘𝗔𝗟𝗘𝗦+𝟮𝟬𝟮𝟱+𝗡𝗬+𝗦𝗧𝗔𝗡𝗟𝗘𝗬+𝗠𝗔𝗦𝗔𝗡𝗬𝗜𝗪𝗔+𝗝𝗨𝗡𝗜𝗢𝗥 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥+𝗦𝗢𝗡+𝗢𝗙+𝗬𝗘𝗦𝗦𝗘𝗥+𝗠𝗗+𝗢𝗪𝗡𝗘𝗥+𓅓
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 𝐓𝐇𝐄 𝐁𝐎𝐓 𝐈𝐒 100% 𝐒𝐀𝐅𝐄 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔

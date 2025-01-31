@@ -12,7 +12,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=STANY-TECH+𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+STANYTECH)](https://git.io/typing-svg) 
 
-<p align="centre"><img src="https://files.catbox.moe/0ydsic.jpeg" width="500" height="500" />
+<p align="centre"><img src="https://files.catbox.moe/0ydsic.jpeg" width="50" height="50" />
 
 
 
@@ -26,16 +26,16 @@
 
 
 <p align="center">
-<a href="https://github.com/Stanking11/followers"><img title="Followers" src="https://img.shields.io/github/followers/ENZOTECH2?color=blue&style=flat-square"></a>
-<a href="https://github.com/ENZOTECH2/ENZO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/STANY-TECH/STANY-TECH-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Stanking11/followers"><img title="Followers" src="https://img.shields.io/github/followers/Stanking11?color=blue&style=flat-square"></a>
+<a href="https://github.com/Stanking11/STANY-TECH-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/STANY-TECH/STANY-TECH-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Stanking11/STANY-TECH-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/STANY-TECH/STANY-TECH-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Stanking11/STANY-TECH-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/STANY-TECH/STANY-TECH-XMD?style=flat-square&color=blue"></a>
+<a href="https://github.com/Stanking11/STANY-TECH-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/Stanking11/STANY-TECH-XMD?style=flat-square&color=blue"></a>
 <a href="https://github.com/Stanking11/STANY-TECH-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{STANY-TECH-XMD}/count.svg" alt="Enzo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{enzo}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{STANY-TECH-XMD}/count.svg" alt="Stanking11:: Visitor's Count" old_src="https://profile-counter.glitch.me/{stanking11}/count.svg" /></p>
 
 
 

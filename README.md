@@ -1,12 +1,13 @@
-  𝗦𝗧𝗔𝗡𝗬 𝗧𝗘𝗖𝗛 𝗫𝗠𝗗 𝗕𝗢𝗧
+   𝗦𝗧𝗔𝗡𝗬 𝗧𝗘𝗖𝗛 𝗫𝗠𝗗 𝗕𝗢𝗧 𝟮𝟬𝟮𝟱
 
-  ✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️
+ ⚠️               😃            ⚠️
 
+😃      😃      😃     😃    😃      😃
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=😃+ON+AIR+2025+BY+STANLEY+😃+✌️)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=😃+𝗢𝗡+𝗔𝗜𝗥+𝟮𝟬𝟮𝟱+BY+𝗦𝗧𝗔𝗡𝗟𝗘𝗬+😃+✌️)](https://git.io/typing-svg)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-𝐓𝐇𝐄 𝐁𝐎𝐓 𝐈𝐒 100% 𝐒𝐀𝐅𝐄 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔
+𝘽𝙊𝙏 𝙄𝙎 𝙎𝘼𝙁𝙀 𝙊𝙉 𝙃𝙀𝙍𝙊𝙆𝙐 𝙉𝙊 𝘽𝙐𝙍𝙉𝙎
 
 🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿
 
@@ -14,7 +15,7 @@
 
 😌😌😌😌😌😌😌😌😌😌😌😌😌😌😌😌
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=F01&lines=true&vCenter=true&width=815&height=100&lines=𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛+𝗫𝐌𝐃+✌️+2025)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=F01&lines=true&vCenter=true&width=815&height=100&lines=𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛+𝗫𝐌𝐃+✌️+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
 
  <a 
 

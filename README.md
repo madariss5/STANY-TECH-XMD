@@ -2,7 +2,7 @@
 
       ⚠️           😃          ⚠️
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=10000&color=F9FFDB&background=B61662&width=435&lines=DEPLOY+AND+ENJOY+USING+STANY-TECH-XMD+;DEVELOPED+BY+%C2%A9STANY-TECH+;DON+OF+YESSER-MD+OWNER" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=10000&color=FFFF00&background=B61662&width=435&lines=DEPLOY+AND+ENJOY+USING+STANY-TECHXMD+;DEVELOPED+BY+%C2%A9STANY-TECH+;SON+OF+YESSER-MD+OWNER" alt="Typing SVG" /></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=FFFF00&lines=true&vCenter=true&width=815&height=100&lines=ON+AIR+𝟮𝟬𝟮𝟱+©STANLEY😃✌️)](https://git.io/typing-svg) 
 

@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=15010&color=00FF00&background=2F2EFF00&center=true&width=435&lines=%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%A5+%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%98+%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A3%F0%9D%97%A2%F0%9F%98%83;%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A3%F0%9D%97%9F%F0%9D%97%A2%F0%9D%97%AC+%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%97+%F0%9D%97%9E%F0%9D%97%98%F0%9D%97%98%F0%9D%97%A3+%F0%9D%97%A8%F0%9D%97%A6%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%9A%F0%9F%98%81;%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%AC-%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%96%F0%9D%97%9B-%F0%9D%97%AB%F0%9D%97%A0%F0%9D%97%97%F0%9F%98%83%E2%9C%8C%EF%B8%8F;%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%A2%F0%9D%97%A3%F0%9D%97%98%F0%9D%97%97+%F0%9D%97%95%F0%9D%97%AC;%C2%A9%F0%9D%9A%82%F0%9D%9A%83%F0%9D%99%B0%F0%9D%99%BD%F0%9D%99%BB%F0%9D%99%B4%F0%9D%9A%88%E2%84%A2%F0%9F%98%83%E2%9C%8C%EF%B8%8F;%F0%9D%9A%82%F0%9D%99%BE%F0%9D%99%BD+%F0%9D%99%BE%F0%9D%99%B5+%F0%9D%9A%88%F0%9D%99%B4%F0%9D%9A%82%F0%9D%9A%82%F0%9D%99%B4%F0%9D%9A%81-%F0%9D%9A%83%F0%9D%99%B4%F0%9D%99%B2%F0%9D%99%B7%F0%9F%A4%A0)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=15020&color=FFFF00&lines=true&vCenter=true&width=815&height=100&lines=ON+AIR+𝟮𝟬𝟮𝟱+©STANLEY😃✌️)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=0&color=FFFF00&lines=true&vCenter=true&width=815&height=100&lines=ON+AIR+𝟮𝟬𝟮𝟱+©STANLEY😃✌️)](https://git.io/typing-svg) 
 
 
 
@@ -13,7 +13,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=15030&color=FF0000&lines=true&vCenter=true&width=815&height=100&lines=STANY-TECH-XMD+🇹🇿+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=0&color=FF0000&lines=true&vCenter=true&width=815&height=100&lines=STANY-TECH-XMD+🇹🇿+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg)  
 
 𝘽𝙊𝙏 𝙄𝙎 𝙎𝘼𝙁𝙀 𝙊𝙉 𝙃𝙀𝙍𝙊𝙆𝙐 𝙉𝙊 𝘽𝙐𝙍𝙉𝙎
 

@@ -49,11 +49,6 @@
       "description":"Enter yes for your bot to auto bio or no to decline",
       "value":"yes",
       "required":false
-    },
-    "AUTO_STICKER": {
-      "description": "Make it true if you want automatic sticker.",
-      "required": false,
-      "value": "false"
     }, 
     "AUTO_READ_STATUS":
     {

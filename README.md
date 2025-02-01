@@ -18,7 +18,7 @@
 𝘽𝙊𝙏 𝙄𝙎 𝙎𝘼𝙁𝙀 𝙊𝙉 𝙃𝙀𝙍𝙊𝙆𝙐 𝙉𝙊 𝘽𝙐𝙍𝙉𝙎
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=5000&color=FFFF00&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER-STANLEY+🇹🇿+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=2000&color=FFFF00&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER-STANLEY+🇹🇿+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
 
 
 ✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️

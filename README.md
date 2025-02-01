@@ -18,24 +18,24 @@
 𝘽𝙊𝙏 𝙄𝙎 𝙎𝘼𝙁𝙀 𝙊𝙉 𝙃𝙀𝙍𝙊𝙆𝙐 𝙉𝙊 𝘽𝙐𝙍𝙉𝙎
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=FFFF00&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER-STANLEY+🇹🇿+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=6000&color=FFFF00&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER-STANLEY+🇹🇿+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
 
 
 ✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=RRGGBB&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER-STANLEY+🇹🇿+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=6000&color=RRGGBB&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER-STANLEY+🇹🇿+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
 
  <a 
 
 <p align="centre"><img src="https://files.catbox.moe/c4svxo.jpg" width="500" heigh
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=00FF00&lines=true&vCenter=true&width=815&height=100&lines=𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛+𝗫𝐌𝐃+✌️+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4000&color=00FF00&lines=true&vCenter=true&width=815&height=100&lines=𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛+𝗫𝐌𝐃+✌️+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=RRGGBB&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER-STANLEY+🇹🇿+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4000&color=RRGGBB&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER-STANLEY+🇹🇿+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg) 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 

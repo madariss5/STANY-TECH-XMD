@@ -92,9 +92,8 @@
 
    <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=purple&style=for-the-badge&logo=heroku"/></a></p>
 
-😃✌️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW👇
-
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Stanking11/STANY-TECH-XMD"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku"/></a>
+😃✌️
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D200F7&background=2F2EFF00&width=435&lines=DEPLOY+BOT+ON+HEROKU+%F0%9F%98%83%E2%9C%8C%EF%B8%8F;%3Ca+href%3D%22https%3A%2F%2Fdashboard.heroku.com%2Fnew%3Ftemplate%3Dhttps%3A%2F%2Fgithub.com%2FStanking11%2FSTANY-TECH-XMD%22%3E%3Cimg+title%3D%22DEPLOY-ON+HEROKU%22+src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FDEPLOY-ON+HEROKU-h%3Fcolor%3Dpurple%26style%3Dfor-the-badge%26logo%3Dheroku%22%2F%3E%3C%2Fa%3E)](https://git.io/typing-svg)
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 

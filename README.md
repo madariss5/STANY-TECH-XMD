@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=10000&color=FFFF00&background=B61662&width=435&lines=DEPLOY+AND+ENJOY+USING+STANY-TECHXMD+;DEVELOPED+BY+%C2%A9STANY-TECH+;SON+OF+YESSER-MD+OWNER" alt="Typing SVG" /></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=FFFF00&lines=true&vCenter=true&width=815&height=100&lines=ON+AIR+𝟮𝟬𝟮𝟱+©STANLEY😃✌️)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=10000&color=FFFF00&lines=true&vCenter=true&width=815&height=100&lines=ON+AIR+𝟮𝟬𝟮𝟱+©STANLEY😃✌️)](https://git.io/typing-svg) 
 
 
 
@@ -13,7 +13,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=FF0000&lines=true&vCenter=true&width=815&height=100&lines=STANY-TECH-XMD+🇹🇿+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=10000&color=FF0000&lines=true&vCenter=true&width=815&height=100&lines=STANY-TECH-XMD+🇹🇿+𝟮𝟬𝟮𝟱)](https://git.io/typing-svg)  
 
 𝘽𝙊𝙏 𝙄𝙎 𝙎𝘼𝙁𝙀 𝙊𝙉 𝙃𝙀𝙍𝙊𝙆𝙐 𝙉𝙊 𝘽𝙐𝙍𝙉𝙎
 

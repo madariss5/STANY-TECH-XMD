@@ -33,25 +33,25 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭──────────────────❂
-┊❄️╭───*𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛-𝗫𝐌𝐃*────❂
-┊❄️┊ *𝐔𝐬𝐞𝐫* : ${s.OWNER_NAME}
-┊❄️┊ *𝐌𝐨𝐝𝐞* : ${mode}
-┊❄️╰───────────────❂
-┊❄️┊ *𝐓𝐢𝐦𝐞* : ${temps}  
-┊❄️┊ *𝐑𝐀𝐌* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-┊🎄╰───────────────❂
+
+╭───*𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛-𝗫𝐌𝐃*────❂
+┊⭕┊ *𝐔𝐬𝐞𝐫* : ${s.OWNER_NAME}
+┊⭕┊ *𝐌𝐨𝐝𝐞* : ${mode}
+┊⭕╰───────────────❂
+┊⭕┊ *𝐓𝐢𝐦𝐞* : ${temps}  
+┊⭕┊ *𝐑𝐀𝐌* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+┊😎╰───────────────❂
 ╰──────────────────❂ \n\n`;
  
     let menuMsg=`  
-  *𝗦𝗧𝗔𝗡𝗬 𝗧𝗘𝗖𝗛 𝗫𝐌𝐃 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒*
+  *𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛-𝗫𝐌𝐃 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒*
 `;
 
     for (const cat in coms) {
         menuMsg += `*╭────❂* *${cat}* *❂*`;
         for (const cmd of coms[cat]) {
             menuMsg += `  
-*┊❤️* ${cmd}`;
+*┊🛑* ${cmd}`;
         }
         menuMsg += `
 *╰═════════════❂* \n`
@@ -59,9 +59,9 @@ const date = moment().format('DD/MM/YYYY');
 
     menuMsg += `
 ◇            ◇
-*—————🎁🎁🎁🎁—————*
+*—————😃✌️😃✌️—————*
 
-  *𝗦𝗧𝗔𝗡𝗬 𝐓𝐄𝐂𝐇*                                         
+  *©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™*                                         
 *╰═════════════❂*
 `;
 

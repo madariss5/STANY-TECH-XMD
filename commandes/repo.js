@@ -40,24 +40,21 @@ const date = moment().format('DD/MM/YYYY');
 *GITHUB LINK*
 > https://github.com/Stanking11/STANY-TECH-XMD
 >https://github.com/Stanking11/STANY-TECH-MD-BOT1
-👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌
+
 *WHATSAPP CHANNEL*
 > https://whatsapp.com/channel/0029VaxKouY7tkj8NiPg0t45
-😊😊😊😊😊😊😊😊😊😊🙂😊😊😊😊😊😊😊😊😊😊😊😊
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *STANY-TECH*
-│❒⁠⁠⁠⁠ *DEV2* : *STANY TECH*
+│❒⁠⁠⁠⁠ *DEV1* : *©STANY-TECH™*
+│❒⁠⁠⁠⁠ *DEV2* : *©STANYTECH™*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *𝚂𝚃𝙰𝙽𝚈 𝚃𝙴𝙲𝙷 𝚂𝚄𝙿𝙿𝙾𝚁𝚃*
+     *©𝚂𝚃𝙰𝙽𝚈 𝚃𝙴𝙲𝙷™ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃*
    𝗞𝗘𝗘𝗣 𝗨𝗦𝗜𝗡𝗚 𝗦𝗧𝗔𝗡𝗬 𝗧𝗘𝗖𝗛 𝗫𝗠𝗗
-   𝗞𝗘𝗘𝗣 𝗨𝗦𝗜𝗡𝗚 𝗦𝗧𝗔𝗡𝗬 𝗧𝗘𝗖𝗛 𝗠𝗗 𝗕𝗢𝗧 𝟭  
-   😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂
-   😌😌😌😌😌😌😌😌😌😌😌😌😌😌😌😌
+   𝗞𝗘𝗘𝗣 𝗨𝗦𝗜𝗡𝗚 𝗦𝗧𝗔𝗡𝗬 𝗧𝗘𝗖𝗛 𝗠𝗗 𝗕𝗢𝗧
 
 ❒────────────────────❒`;
 

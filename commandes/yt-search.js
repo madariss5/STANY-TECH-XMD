@@ -1,135 +1,92 @@
 
 const { zokou } = require("../framework/zokou");
-const { getytlink, ytdwn } = require("../framework/ytdl-core");
-const yts = require("yt-search");
-const ytdl = require('ytdl-core');
-const fs = require('fs');
+const axios = require('axios');
+const ytSearch = require('yt-search');
 
-zokou({ nomCom: "yts", categorie: "Search", reaction: "✋" }, async (dest, zk, commandeOptions) => {
-  const { ms, repondre, arg } = commandeOptions;
+// Define the command with aliases
+zokou({
+  nomCom: "song",
+  aliases: ["musicdoc", "ytmp3doc", "audiodoc", "mp3doc"],
+  categorie: "Music",
+  reaction: "😎"
+}, async (dest, zk, commandOptions) => {
+  const { arg, ms, repondre } = commandOptions;
+
+  // Check if a query is provided
+  if (!arg[0]) {
+    return repondre("Please provide a audio document name.");
+  }
+
   const query = arg.join(" ");
 
-  if (!query[0]) {
-    repondre("what do you want");
-    return;
-  }
-
   try {
-    const info = await yts(query);
-    const resultat = info.videos;
+    // Perform a YouTube search based on the query
+    const searchResults = await ytSearch(query);
 
-    let captions = "";
-    for (let i = 0; i < 10; i++) {
-      captions += `----------------\nTitle: ${resultat[i].title}\nTime : ${resultat[i].timestamp}\nUrl: ${resultat[i].url}\n`;
+    // Check if any videos were found
+    if (!searchResults || !searchResults.videos.length) {
+      return repondre('No audio document found for the specified query.');
     }
-    captions += "\n======\n*powered by STANY-TECH*";
 
-    // repondre(captions)
-    zk.sendMessage(dest, { image: { url: resultat[0].thumbnail }, caption: captions }, { quoted: ms });
-  } catch (error) {
-    repondre("Erreur lors de la procédure : " + error);
-  }
-});
+    const firstVideo = searchResults.videos[0];
+    const videoUrl = firstVideo.url;
 
-zokou({
-  nomCom: "ytmp4",
-  categorie: "Download",
-  reaction: "🎥"
-}, async (origineMessage, zk, commandeOptions) => {
-  const { arg, ms, repondre } = commandeOptions;
+    // Function to get download data from APIs
+    const getDownloadData = async (url) => {
+      try {
+        const response = await axios.get(url);
+        return response.data;
+      } catch (error) {
+        console.error('Error fetching data from API:', error);
+        return { success: false };
+      }
+    };
 
-  if (!arg[0]) {
-    repondre("insert a youtube link");
-    return;
-  }
+    // List of APIs to try
+    const apis = [
+      `https://api-rin-tohsaka.vercel.app/download/ytmp4?url=${encodeURIComponent(videoUrl)}`,
+      `https://api.davidcyriltech.my.id/download/ytmp3?url=${encodeURIComponent(videoUrl)}`,
+      `https://www.dark-yasiya-api.site/download/ytmp3?url=${encodeURIComponent(videoUrl)}`,
+      `https://api.giftedtech.web.id/api/download/dlmp3?url=${encodeURIComponent(videoUrl)}&apikey=gifted-md`,
+      `https://api.dreaded.site/api/ytdl/audio?url=${encodeURIComponent(videoUrl)}`
+    ];
 
-  const topo = arg.join(" ");
-  try {
-    /* const search = await yts(topo);
-    const videos = search.videos;
+    let downloadData;
+    for (const api of apis) {
+      downloadData = await getDownloadData(api);
+      if (downloadData && downloadData.success) break;
+    }
 
-    if (videos && videos.length > 0 && videos[0]) {
-      const Element = videos[0];
+    // Check if a valid download URL was found
+    if (!downloadData || !downloadData.success) {
+      return repondre('Failed to retrieve download URL from all sources. Please try again later.');
+    }
 
-      let InfoMess = {
-        image: { url: videos[0].thumbnail },
-        caption: `*nom de la vidéo :* _${Element.title}_
-*Durée :* _${Element.timestamp}_
-*Lien :* _${Element.url}_
-_*En cours de téléchargement...*_\n\n`
-      };
+    const downloadUrl = downloadData.result.download_url;
+    const videoDetails = downloadData.result;
 
-      zk.sendMessage(origineMessage, InfoMess, { quoted: ms });
-    */
+    // Prepare the message payload with external ad details
+    const messagePayload = {
+      document: { url: downloadUrl },
+      mimetype: 'audio/mp4',
+      contextInfo: {
+        externalAdReply: {
+          title: videoDetails.title,
+          body: videoDetails.title,
+          mediaType: 1,
+          sourceUrl: 'https://whatsapp.com/channel/0029VaxKouY7tkj8NiPg0t45',
+          thumbnailUrl: firstVideo.thumbnail,
+          renderLargerThumbnail: false,
+          showAdAttribution: true,
+        },
+      },
+    };
 
-    // Obtenir les informations de la vidéo à partir du lien YouTube
-    const videoInfo = await ytdl.getInfo(topo);
-    // Format vidéo avec la meilleure qualité disponible
-    const format = ytdl.chooseFormat(videoInfo.formats, { quality: '18' });
-    // Télécharger la vidéo
-    const videoStream = ytdl.downloadFromInfo(videoInfo, { format });
-
-    // Nom du fichier local pour sauvegarder la vidéo
-    const filename = 'video.mp4';
-
-    // Écrire le flux vidéo dans un fichier local
-    const fileStream = fs.createWriteStream(filename);
-    videoStream.pipe(fileStream);
-
-    fileStream.on('finish', () => {
-      // Envoi du fichier vidéo en utilisant l'URL du fichier local
-      zk.sendMessage(origineMessage, { video: { url: `./${filename}` }, caption: "Powered by *STANY-TECH-XMD*", gifPlayback: false }, { quoted: ms });
-
-    });
-
-    fileStream.on('error', (error) => {
-      console.error('Erreur lors de l\'écriture du fichier vidéo :', error);
-      repondre('Une erreur est survenue lors de l\'écriture du fichier vidéo.');
-    });
+    // Send the download link to the user
+    await zk.sendMessage(dest, messagePayload, { quoted: ms });
 
   } catch (error) {
-    console.error('Erreur lors de la recherche ou du téléchargement de la vidéo :', error);
-    repondre('Une erreur est survenue lors de la recherche ou du téléchargement de la vidéo.' + error);
-  }
-});
-
-zokou({
-  nomCom: "ytmp3",
-  categorie: "Download",
-  reaction: "💿"
-}, async (origineMessage, zk, commandeOptions) => {
-  const { ms, repondre, arg } = commandeOptions;
-
-  if (!arg[0]) {
-    repondre("Insert a youtube link");
-    return;
-  }
-
-  try {
-    let topo = arg.join(" ");
-
-    const audioStream = ytdl(topo, { filter: 'audioonly', quality: 'highestaudio' });
-
-    // Nom du fichier local pour sauvegarder le fichier audio
-    const filename = 'audio.mp3';
-
-    // Écrire le flux audio dans un fichier local
-    const fileStream = fs.createWriteStream(filename);
-    audioStream.pipe(fileStream);
-
-    fileStream.on('finish', () => {
-      // Envoi du fichier audio en utilisant l'URL du fichier local
-      zk.sendMessage(origineMessage, { audio: { url: `./${filename}` }, mimetype: 'audio/mp4' }, { quoted: ms, ptt: false });
-      console.log("Envoi du fichier audio terminé !");
-    });
-
-    fileStream.on('error', (error) => {
-      console.error('Erreur lors de l\'écriture du fichier audio :', error);
-      repondre('Une erreur est survenue lors de l\'écriture du fichier audio.');
-    });
-
-  } catch (error) {
-    console.error('Erreur lors de la recherche ou du téléchargement de la vidéo :', error);
-    repondre('Une erreur est survenue lors de la recherche ou du téléchargement de la vidéo.');
+    console.error('Error during download process:', error);
+    return repondre(`Download failed due to an error: ${error.message || error}`);
   }
 });

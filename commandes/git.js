@@ -38,7 +38,6 @@ const date = moment().format('DD/MM/YYYY');
 ❒───────────────────❒
 *GITHUB LINK*
 > https://github.com/Stanking11/STANY-TECH-XMD
-👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌
 
 *WHATSAPP GROUP*
 > https://chat.whatsapp.com/Jjops2zJISED3Fxrp9ZKWb
@@ -46,7 +45,7 @@ const date = moment().format('DD/MM/YYYY');
 ╭───────────────────❒
 │🎩⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │💓 *DEV1* : *𝗦𝗧𝗔𝗡𝗞𝗜𝗡𝗚*
-│Ⓜ️⁠⁠*DEV2* : *𝗦𝗧𝗔𝗡𝗬 𝗧𝗘𝗖𝗛*
+│Ⓜ️⁠⁠*DEV2* : *𝗦𝗧𝗔𝗡𝗬𝗧𝗘𝗖𝗛*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     

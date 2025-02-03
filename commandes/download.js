@@ -8,7 +8,7 @@ const s = require(__dirname + "/../set");
 const more = String.fromCharCode(8206)
 const Taphere = more.repeat(4001)
 
-zokou({ nomCom: "downmenu", categorie: "Menu" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "DOWNLOAD-MENU", categorie: "Menu" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
@@ -64,7 +64,7 @@ let infoMsg =  `
 │║◆┊➻  *song1*
 ┌┤
 ┊╰─━━═••═━━⊛ 
-╰⊷••ᴘᴏᴘᴍɪᴅ ᴍᴅ••
+╰⊷••BETTER THAN YESTERDAY••
 
 ╭────────────────────⊷
 ┊╭──> *TIME* : ${temps}
@@ -78,7 +78,7 @@ let menuMsg = `
 ┊𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛-𝗫𝗠𝗗
 ╰──────────────────••
 
-> ©ᴘᴏᴘᴋɪᴅ ᴛᴇᴄʜ
+> ©BETTER THAN YESTERDAY
 
  `;
 

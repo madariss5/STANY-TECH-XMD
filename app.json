@@ -55,7 +55,10 @@
 	,
     "HEROKU_API_KEY": {
     "description": "insert your heroku api-key (this is optionnal)",
-     "required" :false
+   "value" :"HRKU-52dc495f-2820-4e37-9953-12a7882b5807", 
+	    "required" :true
+	    
+	    
     },
   "HEROKU_APP_NAME": {
     "description": "insert your heroku APP NAME (this is optionnal)",

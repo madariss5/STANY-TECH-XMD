@@ -3,7 +3,7 @@ const { cmd } = require("../command");
 const moment = require("moment-timezone");
 let botStartTime = Date.now();
 
-const ALIVE_IMG = "https://files.catbox.moe/0ydsic.jpeg";
+const ALIVE_IMG = "https://files.catbox.moe/ybqmmh.jpeg";
 
 cmd({
   pattern: "alive",

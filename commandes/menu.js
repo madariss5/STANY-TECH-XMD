@@ -33,18 +33,18 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭─╭────《😃《𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛-𝗫𝗠𝗗》😃》────
+╭────😃𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛-𝗫𝗠𝗗😃────
 ┴  ╭─────────────
 │❒⁠⁠⁠⁠│ *ADMIN* : ${s.OWNER_NAME}
 │❒│⁠⁠⁠⁠ *CALENDER* : ${date}
 │❒│⁠⁠⁠⁠ *PREFIX* : ${s.PREFIXE}
-│❒⁠⁠⁠⁠│⁠⁠⁠ *BOT IS IN* : ${mode} mode
-│❒│⁠⁠⁠⁠ *ORDERS* : ${cm.length} 
+│❒⁠⁠⁠⁠│⁠⁠⁠ *MODE* : ${mode} mode
+│❒│⁠⁠⁠⁠ *COMMANDS* : ${cm.length} 
 │❒│⁠⁠⁠⁠ *SPACE* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒│⁠⁠⁠⁠ *CHROME* : ${os.platform()}
 │❒│⁠⁠⁠⁠ *THEME* : *©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™*
 ┬  ╰──────────────
-╰─── ··《😃✌️《©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷-𝚂𝚄𝙿𝙿𝙾𝚁𝚃™》✌️😃》··──\n`;
+╰───😃✌️©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷-𝚂𝚄𝙿𝙿𝙾𝚁𝚃™✌️😃──\n`;
     
 let menuMsg = `
  ─────────
@@ -67,7 +67,7 @@ let menuMsg = `
 
     menuMsg += `
 
-|⏣𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗 𝗕𝗬 ©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™ 𝗦𝗜𝗡𝗚𝗟𝗘 𝗕𝗢𝗬😃
+|⏣CREATED 𝗕𝗬 ©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™ SINGLE BOY
 *❒⁠⁠⁠⁠—————————— ❒⁠⁠⁠⁠——————————❒⁠⁠⁠⁠*
 `;
 

@@ -1,7 +1,3 @@
-
-
-
-
 const {
     aitts,
     smd,
@@ -195,7 +191,7 @@ const {
       pattern: "rmbg",
       alias: ["removebg"],
       desc: "Removes the background from an image.",
-      category: "ai",
+      category: "AI",
       filename: __filename,
       use: "<image URL>",
     },
@@ -240,7 +236,7 @@ const {
     {
       pattern: "stan",
       desc: "Generates an image using Stable Diffusion AI.",
-      category: "ai",
+      category: "AI",
       filename: __filename,
       use: "<text>",
     },
@@ -274,7 +270,7 @@ const {
     {
       pattern: "stan2",
       desc: "Generates a response from Bard AI.",
-      category: "ai",
+      category: "AI",
       filename: __filename,
       use: "<text>",
     },
@@ -306,7 +302,7 @@ const {
   );
   smd({
     pattern: "gpt4",
-    category: "ai",
+    category: "AI",
     desc: "Chat with GPT-4 AI model",
     use: "<text>",
     filename: __filename,
@@ -331,7 +327,7 @@ const {
   
   smd({
     pattern: "gemini",
-    category: "ai",
+    category: "AI",
     desc: "Chat with Bard AI model",
     use: "<text>",
     filename: __filename,

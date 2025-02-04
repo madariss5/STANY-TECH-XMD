@@ -1,97 +1,73 @@
 
-
-
-const { zokou } = require('../framework/zokou');
-const {addOrUpdateDataInAlive , getDataFromAlive} = require('../bdd/alive')
+const { cmd } = require("../command");
 const moment = require("moment-timezone");
-const s = require(__dirname + "/../set");
+let botStartTime = Date.now();
 
-zokou(
-    {
-        nomCom : 'alive',
-        categorie : 'General'
-        
-    },async (dest,zk,commandeOptions) => {
+const ALIVE_IMG = "https://files.catbox.moe/0ydsic.jpeg";
 
- const {ms , arg, repondre,superUser} = commandeOptions;
+cmd({
+  pattern: "alive",
+  desc: "Check if the bot is active.",
+  category: "info",
+  react: "🫡",
+  filename: __filename
+}, async (conn, mek, m, { reply, from }) => {
+  try {
+    const pushname = m.pushName || "User";
+    const harareTime = moment().tz("Africa/Harare").format("HH:mm:ss");
+    const harareDate = moment().tz("Africa/Harare").format("dddd, MMMM Do YYYY");
+    const runtimeMilliseconds = Date.now() - botStartTime;
+    const runtimeSeconds = Math.floor((runtimeMilliseconds / 1000) % 60);
+    const runtimeMinutes = Math.floor((runtimeMilliseconds / (1000 * 60)) % 60);
+    const runtimeHours = Math.floor(runtimeMilliseconds / (1000 * 60 * 60));
+    const formattedInfo = `
+ 🏮 *STANY-TECH XMD STATUS* 🏮 
 
- const data = await getDataFromAlive();
+  *Hi👋😄 ${pushname}*
 
- if (!arg || !arg[0] || arg.join('') === '') {
+ *⏰ Time: ${harareTime}*
+ *📆 Date: ${harareDate}*
+ *🔋 Uptime: ${runtimeHours} hours, ${runtimeMinutes} minutes, ${runtimeSeconds} seconds*
 
-    if(data) {
-       
-        const {message , lien} = data;
+ \`Status\`: *𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷-𝚇𝙼𝙳 is online! 🤗🚀*
 
+> 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘  ©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™. 🔗
+`.trim();
 
-        var mode = "public";
-        if ((s.MODE).toLocaleLowerCase() != "yes") {
-            mode = "private";
+    if (!ALIVE_IMG || !ALIVE_IMG.startsWith("http")) {
+      throw new Error("Invalid ALIVE_IMG URL. Please set a valid image URL.");
+    }
+
+    await conn.sendMessage(from, {
+      image: { url: ALIVE_IMG },
+      caption: formattedInfo,
+      contextInfo: {
+        mentionedJid: [m.sender],
+        forwardingScore: 999,
+        isForwarded: true,
+        forwardedNewsletterMessageInfo: {
+          newsletterJid: '120363304325601080@newsletter',
+          newsletterName: 'STANY-TECH XMD',
+          serverMessageId: 143
         }
-      
-    
-     
-    moment.tz.setDefault('Etc/GMT');
+      }
+    }, { quoted: mek });
 
-// Créer une date et une heure en GMT
-const temps = moment().format('HH:mm:ss');
-const date = moment().format('DD/MM/YYYY');
-
-    const alivemsg = `
-*Owner* : ${s.OWNER_NAME}
-*Mode* : ${mode}
-*Date* : ${date}
-*Hours(GMT)* : ${temps}
-
- ${message}
- 
- 
- *𝗦𝗧𝗔𝗡𝗬 𝗧𝗘𝗖𝗛 𝗫𝗠𝗗 𝗪𝗔𝗕𝗢𝗧`
-
- if (lien.match(/\.(mp4|gif)$/i)) {
-    try {
-        zk.sendMessage(dest, { video: { url: lien }, caption: alivemsg }, { quoted: ms });
-    }
-    catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
-    }
-} 
-// Checking for .jpeg or .png
-else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
-    try {
-        zk.sendMessage(dest, { image: { url: lien }, caption: alivemsg }, { quoted: ms });
-    }
-    catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
-    }
-} 
-else {
-    
-    repondre(alivemsg);
-    
-}
-
-    } else {
-        if(!superUser) { repondre("ATI ALIVE MKUU😂") ; return};
-
-      await   repondre("SI ATA WE UNAJUA STANY-TECH XMD HAIEZI LALA NO MATTER WHAT");
-         repondre("EBU MAINTAIN HIVO HIVO :)")
-     }
- } else {
-
-    if(!superUser) { repondre ("Only the owner can  modify the alive") ; return};
-
-  
-    const texte = arg.join(' ').split(';')[0];
-    const tlien = arg.join(' ').split(';')[1]; 
-
+// Send audio as per your request
+        await conn.sendMessage(from, {
+            audio: { url: 'https://github.com/mrfrank-ofc/SUBZERO-MD-DATABASE/raw/refs/heads/main/audios/subzero-theone.mp3' }, // Audio URL
+            mimetype: 'audio/mp4',
+            ptt: true
+        }, { quoted: mek });
 
     
-await addOrUpdateDataInAlive(texte , tlien)
-
-repondre(' Holla🥴, *STANY-TECH XMD BOT* is alive just like you see. ')
-
-}
-    });
+  } catch (error) {
+    console.error("Error in alive command: ", error);
+    const errorMessage = `
+ An error occurred while processing the alive command.
+ Error Details: ${error.message}
+Please report this issue or try again later.
+`.trim();
+    return reply(errorMessage);
+  }
+});

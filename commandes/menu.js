@@ -35,11 +35,11 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
 
 ╭───*𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛-𝗫𝐌𝐃*────❂
-┊⭕┊ *𝐔𝐬𝐞𝐫* : ${s.OWNER_NAME}
-┊⭕┊ *𝐌𝐨𝐝𝐞* : ${mode}
-┊⭕╰───────────────❂
-┊⭕┊ *𝐓𝐢𝐦𝐞* : ${temps}  
-┊🛑┊ *𝐑𝐀𝐌* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+┊🎄┊ *𝐔𝐬𝐞𝐫* : ${s.OWNER_NAME}
+┊🎄┊ *𝐌𝐨𝐝𝐞* : ${mode}
+┊🎄╰───────────────❂
+┊🎄┊ *𝐓𝐢𝐦𝐞* : ${temps}  
+┊🎄┊ *𝐑𝐀𝐌* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ┊🛑╰───────────────❂
 ╰──────────────────❂ \n\n`;
  
@@ -51,7 +51,7 @@ const date = moment().format('DD/MM/YYYY');
         menuMsg += `*╭────❂* *${cat}* *❂*`;
         for (const cmd of coms[cat]) {
             menuMsg += `  
-** ${cmd}`;
+*👉* ${cmd}`;
         }
         menuMsg += `
 *╰═════════════❂* \n`
@@ -59,10 +59,9 @@ const date = moment().format('DD/MM/YYYY');
 
     menuMsg += `
 ◆𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝙳 𝙱𝚈 𝚂𝚃𝙰𝙽𝙻𝙴𝚈 𝙼𝙰𝚂𝙰𝙽𝚈𝙸𝚆𝙰◆         
-*—————😃✌️😃✌️—————*
+*—————✌️😃✌️😃✌️—————*
 
-  *©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™*                                         
-*╰═════════════❂*
+  *©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™*                                        
 `;
 
    var lien = mybotpic();

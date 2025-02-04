@@ -7,7 +7,7 @@ const ytSearch = require('yt-search');
 ezra({
   nomCom: "play",
   aliases: ["music", "ytmp3", "audio", "mp3"],
-  categorie: "Search",
+  categorie: "music",
   reaction: "🔥"
 }, async (dest, zk, commandOptions) => {
   const { arg, ms, repondre } = commandOptions;

@@ -8,7 +8,7 @@ const s = require(__dirname + "/../set");
 const more = String.fromCharCode(8206)
 const readmore = more.repeat(4001)
 
-zokou({ nomCom: "menu2", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
@@ -34,34 +34,42 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-╭───*𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛-𝗫𝐌𝐃*────❂
-┊🎄┊ *𝐔𝐬𝐞𝐫* : ${s.OWNER_NAME}
-┊🎄┊ *𝐌𝐨𝐝𝐞* : ${mode}
-┊🎄╰───────────────❂
-┊🎄┊ *𝐓𝐢𝐦𝐞* : ${temps}  
-┊🎄┊ *𝐑𝐀𝐌* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-┊🛑╰───────────────❂
-╰──────────────────❂ \n\n`;
- 
-    let menuMsg=`  
-  *𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛-𝗫𝐌𝐃 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒*
+╭─╭────《😃《𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛-𝗫𝗠𝗗》😃》────
+┴  ╭─────────────
+│❒⁠⁠⁠⁠│ *ADMIN* : ${s.OWNER_NAME}
+│❒│⁠⁠⁠⁠ *CALENDER* : ${date}
+│❒│⁠⁠⁠⁠ *PREFIX* : ${s.PREFIXE}
+│❒⁠⁠⁠⁠│⁠⁠⁠ *BOT IS IN* : ${mode} mode
+│❒│⁠⁠⁠⁠ *ORDERS* : ${cm.length} 
+│❒│⁠⁠⁠⁠ *SPACE* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+│❒│⁠⁠⁠⁠ *CHROME* : ${os.platform()}
+│❒│⁠⁠⁠⁠ *THEME* : *©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™*
+┬  ╰──────────────
+╰─── ··《😃✌️《©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷-𝚂𝚄𝙿𝙿𝙾𝚁𝚃™》✌️😃》··──\n`;
+    
+let menuMsg = `
+ ─────────
+  *𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷-𝚇𝙼𝙳* 
+ ─────────
+
+
+ *𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛-𝗫𝗠𝗗-𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦*
 `;
 
     for (const cat in coms) {
-        menuMsg += `*╭────❂* *${cat}* *❂*`;
+        menuMsg += ` ╭─⬡ *${cat}* ⬡─`;
         for (const cmd of coms[cat]) {
-            menuMsg += `  
-*👉* ${cmd}`;
+            menuMsg += `
+⬡│▸ *${cmd}*`;
         }
         menuMsg += `
-*╰═════════════❂* \n`
+  ╰────────────·· \n`
     }
 
     menuMsg += `
-◆𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝙳 𝙱𝚈 𝚂𝚃𝙰𝙽𝙻𝙴𝚈 𝙼𝙰𝚂𝙰𝙽𝚈𝙸𝚆𝙰◆         
-*—————✌️😃✌️😃✌️—————*
 
-  *©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™*                                        
+|⏣𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗 𝗕𝗬 ©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™ 𝗦𝗜𝗡𝗚𝗟𝗘 𝗕𝗢𝗬😃
+*❒⁠⁠⁠⁠—————————— ❒⁠⁠⁠⁠——————————❒⁠⁠⁠⁠*
 `;
 
    var lien = mybotpic();

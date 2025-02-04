@@ -43,8 +43,8 @@ const date = moment().format('DD/MM/YYYY');
 │❒│⁠⁠⁠⁠ *SPACE* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒│⁠⁠⁠⁠ *CHROME* : ${os.platform()}
 │❒│⁠⁠⁠⁠ *THEME* : *©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™*
-┬  ╰──────────────
-╰───😃✌️©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷-𝚂𝚄𝙿𝙿𝙾𝚁𝚃™✌️😃──\n`;
+  ╰──────────────
+😃✌️©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷-𝚂𝚄𝙿𝙿𝙾𝚁𝚃™✌️😃\n`;
     
 let menuMsg = `
  ─────────
@@ -59,7 +59,7 @@ let menuMsg = `
         menuMsg += ` ╭─⬡ *${cat}* ⬡─`;
         for (const cmd of coms[cat]) {
             menuMsg += `
-⬡│👉 *${cmd}*`;
+⬡│🔥👉*${cmd}*`;
         }
         menuMsg += `
   ╰────────────·· \n`
@@ -67,7 +67,7 @@ let menuMsg = `
 
     menuMsg += `
 
-|⏣CREATED 𝗕𝗬 ©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™ SINGLE BOY
+|⏣CREATED BY ©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™ SINGLE BOY
 *❒⁠⁠⁠⁠—————————— ❒⁠⁠⁠⁠——————————❒⁠⁠⁠⁠*
 `;
 

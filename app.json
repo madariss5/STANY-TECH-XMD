@@ -2,7 +2,7 @@
   "name":"𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛-𝗫𝗠𝗗",
   "description":"Best whatsapp bot developed by ©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/0ydsic.jpeg",
+  "logo":"https://files.catbox.moe/c4svxo.jpg",
   "repository":"https://github.com/Stanking11/STANY-TECH-XMD",
   "succes_url":"/",
   "stack":"container",
@@ -10,7 +10,7 @@
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":".",
+      "value":"*",
       "required":true
     },
     "AUTO_READ_STATUS":
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/0ydsic.jpeg",
+      "value":"https://files.catbox.moe/c4svxo.jpg",
       "required":false
        
      },

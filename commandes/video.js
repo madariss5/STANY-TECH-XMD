@@ -6,9 +6,9 @@ const { cmd, commands } = require('../command');
 const { fetchJson } = require('../lib/functions');
 
 cmd({
-  pattern: 'videopro',
+  pattern: 'tanv1',
   desc: 'Search and download YouTube videos',
-  category: 'media',
+  category: 'General',
   filename: __filename
 }, async (conn, mek, m, {
   from,

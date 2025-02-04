@@ -72,6 +72,30 @@ zokou({
     console.error("Error fetching tech news:", _0x52491a);
     await _0x6c74f5("Sorry, there was an error retrieving the news. Please try again later.\n" + _0x52491a);
   }
+zokou({ nomCom: "tan1", reaction: "🤦", categorie: "IA" }, async (dest, zk, commandeOptions) => {
+    const { repondre, arg, ms } = commandeOptions;
+  
+    try {
+      if (!arg || arg.length === 0) {
+        return repondre(`Please ask a question.`);
+      }
+  
+      // Regrouper les arguments en une seule chaîne séparée par "-"
+      const question = arg.join(' ');
+      const response = await axios.get(`https://api.davidcyriltech.my.id/ai/chatbot?query=${question}`);
+      
+      const data = response.data;
+      if (data) {
+        repondre(data.result);
+      } else {
+        repondre("Error during response generation.");
+      }
+    } catch (error) {
+      console.error('Erreur:', error.message || 'Une erreur s\'est produite');
+      repondre("Oops, an error occurred while processing your request.");
+    }
+  });
+
 });
 zokou({
   nomCom: "code",

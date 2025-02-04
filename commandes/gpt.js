@@ -1,59 +1,23 @@
-/*
-
-Hey Cloner Make This Work
-Yours Mr Stanley 
-
-
-const axios = require('axios');
-const config = require('../config');
-const { cmd, commands } = require('../command');
-
-cmd({
-  pattern: "bot",
-  alias: ["geminai","gpt"],
-  react: "🤖",
-  desc: "AI chat.",
-  category: "main",
-  filename: __filename
-}, async (conn, mek, m, {
-  from,
-  quoted,
-  body,
-  isCmd,
-  command,
-  args,
-  q,
-  isGroup,
-  sender,
-  senderNumber,
-  botNumber2,
-  botNumber,
-  pushname,
-  isMe,
-  isOwner,
-  groupMetadata,
-  groupName,
-  participants,
-  groupAdmins,
-  isBotAdmins,
-  isAdmins,
-  reply
-}) => {
-  try {
-    if (!q) return reply("Please ask a question or provide input for the AI.");
-    const userInput = q.trim();
-    if (userInput === "") return reply("Please provide a valid input.");
-    const apiUrl = `https://api.giftedtech.web.id/api/ai/geminiaipro?apikey=gifted&q=${encodeURIComponent(userInput)}`;
-    const response = await axios.get(apiUrl);
-    console.log('API Response:', response.data);
-    if (!response.data || !response.data.message) {
-      return reply("No response from the AI or invalid API response.");
+zokou({ nomCom: "tanking", reaction: "🤦", categorie: "IA" }, async (dest, zk, commandeOptions) => {
+    const { repondre, arg, ms } = commandeOptions;
+  
+    try {
+      if (!arg || arg.length === 0) {
+        return repondre(`Please ask a question.`);
+      }
+  
+      // Regrouper les arguments en une seule chaîne séparée par "-"
+      const question = arg.join(' ');
+      const response = await axios.get(`https://api.davidcyriltech.my.id/ai/chatbot?query=${question}`);
+      
+      const data = response.data;
+      if (data) {
+        repondre(data.result);
+      } else {
+        repondre("Error during response generation.");
+      }
+    } catch (error) {
+      console.error('Erreur:', error.message || 'Une erreur s\'est produite');
+      repondre("Oops, an error occurred while processing your request.");
     }
-    const aiResponse = response.data.message.trim();
-    return reply(`\`🤖 GEMINI AI RESPONSE:\` \n\n${aiResponse}`);
-  } catch (error) {
-    console.error('Error:', error);
-    reply(`An error occurred: ${error.message}`);
-  }
-});
-*/
+  });

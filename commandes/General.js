@@ -1,16 +1,16 @@
-const { zokou } = require("../framework/zokou");
-const {getAllSudoNumbers,isSudoTableNotEmpty} = require("../bdd/sudo")
+const { ezra } = require("../fredi/ezra");
+const {getAllSudoNumbers,isSudoTableNotEmpty} = require("../luckydatabase/sudo")
 const conf = require("../set");
 
-zokou({ nomCom: "owner", categorie: "General", reaction: "❣️" }, async (dest, zk, commandeOptions) => {
+ezra({ nomCom: "owner", categorie: "STANY-TECH", reaction: "✌️" }, async (dest, zk, commandeOptions) => {
     const { ms , mybotpic } = commandeOptions;
     
   const thsudo = await isSudoTableNotEmpty()
 
   if (thsudo) {
      let msg = `*My Super-User*\n
-     *Owner Number*\n :
-- 🌟 @${conf.NUMERO_OWNER}
+     *Owner Number\n* :
+- 😎 @${conf.NUMERO_OWNER}
 
 ------ *other sudos* -----\n`
      
@@ -51,19 +51,18 @@ zokou({ nomCom: "owner", categorie: "General", reaction: "❣️" }, async (dest
   }
 });
 
-zokou({ nomCom: "dev", categorie: "General", reaction: "💘" }, async (dest, zk, commandeOptions) => {
+ezra({ nomCom: "dev", categorie: "General", reaction: "✌️" }, async (dest, zk, commandeOptions) => {
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
       { nom: "STANLEY", numero: "255612285041" },
-      { nom: "᚛STANYKING᚜", numero: "255750638502" },
-      { nom: "STANYKING", numero: "255675952090" },
+      { nom: "STANY-TECH", numero: "255756738501" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "WELCOME TO STANY-TECH XMD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
+    let message = "Uuhh Hellow This Is STANY-TECH-XMD Dev Contacts Check😎:\n\n";
     for (const dev of devs) {
-      message += `----------------\n• ${dev.nom} : https://wa.link/m6nj8d/${dev.numero}\n`;
+      message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
   var lien = mybotpic()
     if (lien.match(/\.(mp4|gif)$/i)) {
@@ -92,10 +91,51 @@ else {
 }
 });
 
-zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
+ezra({ nomCom: "sup", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("THANK YOU FOR CHOOSING STANY-TECH-XMD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VaxKouY7tkj8NiPg0t45] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/EqfFoV8zm7hGTux2P4nmbN] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://youtube.com/@stanleytechnology?si=jQO3LPtvE92aw4fi] \n\n\n*Created By ©STANY-TECH") 
-  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING STANY-TECH-XMD,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
+  repondre("look on pm sir ")
+  await zsendMessage(auteurMessage,{text :`https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f`},{quoted :ms})
 
 })
+
+ezra({ nomCom: "dev", categorie: "General", reaction: "🚜" }, async (dest, zk, commandeOptions) => {
+    const { ms, mybotpic } = commandeOptions;
+
+    const devs = [
+      { nom: "STANLEY", numero: "255612285041" },
+      { nom: "STANY-TECH", numero: "25556738502" },
+      // Ajoute d'autres développeurs ici avec leur nom et numéro
+    ];
+
+    let message = " Hello👋 *Welcome to STANY-TECH-XMD * here is the developer numbers:\n\n";
+    for (const dev of devs) {
+      message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
+    }
+  var lien = mybotpic()
+    if (lien.match(/\.(mp4|gif)$/i)) {
+    try {
+        zk.sendMessage(dest, { video: { url: lien }, caption:message }, { quoted: ms });
+    }
+    catch (e) {
+        console.log("🥵🥵 Menu erreur " + e);
+        repondre("🥵🥵 Menu erreur " + e);
+    }
+} 
+// Vérification pour .jpeg ou .png
+else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
+    try {
+        zk.sendMessage(dest, { image: { url: lien }, caption:message }, { quoted: ms });
+    }
+    catch (e) {
+        console.log("🥵🥵 Menu erreur " + e);
+        repondre("🥵🥵 Menu erreur " + e);
+    }
+} 
+else {
+    repondre(lien)
+    repondre("link error");
+    
+}
+});
+    

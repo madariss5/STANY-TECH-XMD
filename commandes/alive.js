@@ -8,7 +8,7 @@ const ALIVE_IMG = "https://files.catbox.moe/0ydsic.jpeg";
 cmd({
   pattern: "alive",
   desc: "Check if the bot is active.",
-  category: "info",
+  category: "General",
   react: "🫡",
   filename: __filename
 }, async (conn, mek, m, { reply, from }) => {

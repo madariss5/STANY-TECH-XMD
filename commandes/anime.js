@@ -5,7 +5,7 @@ const {Sticker ,StickerTypes}= require('wa-sticker-formatter');
 
 zokou({
   nomCom: "ranime",
-  categorie: "Fun",
+  categorie: "menu",
   reaction: "📺"
 },
 async (origineMessage, zk, commandeOptions) => {

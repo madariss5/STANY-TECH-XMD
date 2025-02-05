@@ -51,7 +51,7 @@ ezra({ nomCom: "owner", categorie: "STANY-TECH", reaction: "✌️" }, async (de
   }
 });
 
-ezra({ nomCom: "dev", categorie: "General", reaction: "✌️" }, async (dest, zk, commandeOptions) => {
+ezra({ nomCom: "developer", categorie: "General", reaction: "✌️" }, async (dest, zk, commandeOptions) => {
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [

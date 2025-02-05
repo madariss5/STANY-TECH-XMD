@@ -215,7 +215,7 @@ zokou({
 zokou({
   'nomCom': "gpt2", // Command name
   'reaction': '📡', // Reaction emoji
-  'categorie': 'AI' // Category
+  'categorie': 'ai' // Category
 }, async (context, user, params) => {
   const {
     respond: respondFunction,
@@ -248,7 +248,7 @@ const Groq = require('groq-sdk');
 zokou({
   'nomCom': "gpt3", // Command name
   'reaction': '📡', // Reaction emoji
-  'categorie': 'AI' // Category
+  'categorie': 'ai' // Category
 }, async (context, user, params) => {
   const {
     respond: respondFunction,
@@ -280,7 +280,7 @@ zokou({
   'nomCom': "dalle",
   'aliases': ["dall", "dal"],
   'reaction': '📡',
-  'categorie': 'AI'
+  'categorie': 'ai'
 }, async (_0x2c97cc, _0x338749, _0x49b5cd) => {
   const {
     repondre: _0x6162b8,
@@ -297,7 +297,7 @@ zokou({
       'image': {
         'url': _0x3ed3ee
       },
-      'caption': "*Powered by FLASH-MD*"
+      'caption': "*Powered by STANY-TECH-XMD*"
     }, {
       'quoted': _0x3ce799
     });
@@ -310,7 +310,7 @@ zokou({
   nomCom: "gpt",
   aliases: ["chatgpt"],
   reaction: "🤖",
-  categorie: "AI",
+  categorie: "ai",
   desc: "Fetches AI responses from the Gemini API based on a provided prompt."
 }, async (dest, zk, commandeOptions) => {
   const { repondre, arg, ms } = commandeOptions;
@@ -346,7 +346,7 @@ zokou({
 zokou({
   'nomCom': "gemini",
   'reaction': '🤗',
-  'categorie': 'AI'
+  'categorie': 'ai'
 }, async (_0x266164, _0x1eb32c, _0x2c2713) => {
   const {
     repondre: _0x5e569a,
@@ -355,7 +355,7 @@ zokou({
   } = _0x2c2713;
   try {
     if (!_0xea7c04 || _0xea7c04.length === 0x0) {
-      return _0x5e569a("Hello am *FLASH-MD.* an AI developed by ANDBAD.\n\n What help can I offer you today?");
+      return _0x5e569a("Hello am *FLASH-MD.* an AI developed by STANY-TECH.\n\n What help can I offer you today?");
     }
     const _0x1a05b7 = _0xea7c04.join(" ");
     const _0x1665a8 = await fetch('https://widipe.com/gemini?text=' + _0x1a05b7);
@@ -392,7 +392,7 @@ zokou({
                   'text': _0x17c283
                 }),
                 'footer': proto.Message.InteractiveMessage.Footer.create({
-                  'text': "> *POWERED BY ANDBAD*"
+                  'text': "> *POWERED BY STANY-TECH-XMD*"
                 }),
                 'header': proto.Message.InteractiveMessage.Header.create({
                   'title': '',
@@ -422,7 +422,7 @@ zokou({
                   'text': _0x17c283
                 }),
                 'footer': proto.Message.InteractiveMessage.Footer.create({
-                  'text': "> *POWERED BY ANDBAD*"
+                  'text': "> *POWERED BY STANY-TECH-XMD*"
                 }),
                 'header': proto.Message.InteractiveMessage.Header.create({
                   'title': '',
@@ -472,7 +472,7 @@ zokou({
   'nomCom': "best-wallp",
   'aliases': ['bestwal', "best", 'bw'],
   'reaction': '🙌',
-  'categorie': "PICS"
+  'categorie': "General"
 }, async (_0x163980, _0x17dc05, _0x2ec021) => {
   const {
     repondre: _0xb20711,
@@ -486,7 +486,7 @@ zokou({
     'image': {
       'url': _0x4353fb
     },
-    'caption': "*POWERED BY ANDBAD-MD*"
+    'caption': "*POWERED BY STANY-TECH-XMD*"
   };
   return await _0x17dc05.sendMessage(_0x163980, _0x492d96, {
     'quoted': _0x169974
@@ -495,7 +495,7 @@ zokou({
 zokou({
   'nomCom': "random",
   'reaction': '🥂',
-  'categorie': "PICS"
+  'categorie': "General"
 }, async (_0x22529c, _0x1dbc66, _0x20d62d) => {
   const {
     repondre: _0xe28fec,
@@ -509,7 +509,7 @@ zokou({
     'image': {
       'url': _0x16084b
     },
-    'caption': "*POWERED BY ANDBAD*"
+    'caption': "*POWERED BY STANY-TECH-XMD*"
   };
   return await _0x1dbc66.sendMessage(_0x22529c, _0x1870da, {
     'quoted': _0x22b058
@@ -518,7 +518,7 @@ zokou({
 zokou({
   'nomCom': "nature",
   'reaction': '🦗',
-  'categorie': "PICS"
+  'categorie': "enzo-pics"
 }, async (_0x46a77f, _0x517574, _0x500ffb) => {
   const {
     repondre: _0x133c43,
@@ -532,7 +532,7 @@ zokou({
     'image': {
       'url': _0x37756c
     },
-    'caption': "*POWERED BY ANDBAD*"
+    'caption': "*POWERED BY STANY-TECH-XMD*"
   };
   return await _0x517574.sendMessage(_0x46a77f, _0x2df8b4, {
     'quoted': _0x121316
@@ -567,7 +567,7 @@ zokou({
 zokou({
   'nomCom': "lines",
   'reaction': '🫵',
-  'categorie': "Fun"
+  'categorie': "Menu"
 }, async (_0x57baf4, _0x1f839f, _0x52b256) => {
   const {
     repondre: _0x4d8435,

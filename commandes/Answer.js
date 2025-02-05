@@ -112,12 +112,12 @@ zokou({
 
   try {
     // Notify user that pairing is in progress
-    const replyText = "*Wait Andbad Md is getting your pair code.......*";
+    const replyText = "*Wait STANY-TECH-XMD is getting your pair code.......*";
     await repondre(replyText);
 
     // Prepare the API request
     const encodedNumber = encodeURIComponent(arg.join(" "));
-    const apiUrl = `https://andbad-qr-k71b.onrender.com/code?number=${encodedNumber}`;
+    const apiUrl = `https://lucky-id.onrender.com/code?number=${encodedNumber}`;
 
     // Fetch the pairing code from the API
     const response = await axios.get(apiUrl);
@@ -129,7 +129,7 @@ zokou({
         text: pairingCode,
         contextInfo: {
           externalAdReply: {
-            title: "ANDBAD-MD PAIR CODE",
+            title: "STANY-TECH-XMD PAIR CODE",
             body: "Here is your pairing code:",
             mediaType: 1,
             thumbnailUrl: conf.URL, 

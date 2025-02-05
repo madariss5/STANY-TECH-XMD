@@ -5,7 +5,7 @@ const ytSearch = require('yt-search');
 
 // Define the command with aliases
 ezra({
-  nomCom: "play",
+  nomCom: "play1",
   aliases: ["music", "ytmp3", "audio", "mp3"],
   categorie: "music",
   reaction: "🔥"

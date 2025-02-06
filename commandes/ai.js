@@ -1,30 +1,156 @@
-const { ezra } = require("../fredi/ezra");
-const axios = require("axios");
+const { zokou } = require('../framework/zokou');
+const traduire = require("../framework/traduction") ;
+const { default: axios } = require('axios');
+const text2prompt = require('../framework/text2prompt')
+const { ai } = require('../framework/mesfonctions')
+const { react } = require('../framework/utils')
+const conf = require('../set');
 
-// C'est la commande pour interagir avec ChatGPT thomas
-ezra({ nomCom: "tan1", reaction: "🤪", categorie: "IA" }, async (dest, zk, commandeOptions) => {
-    const { repondre, arg, ms } = commandeOptions;
 
-    try {
-        // Vérifie si des arguments ont été fournis
-        if (!arg || arg.length === 0) {
-            return repondre("Veuillez poser une question.");
-        }
 
-        // Regrouper les arguments en une seule chaîne ecrit  par thomas
-        const question = arg.join(' ');
 
-        // Appel à l'API ChatGPT avec la nouvelle URL recherche par thomas
-        const responseApi = await axios.get(`https://test-api-apms.onrender.com/api/chatgpt?text=${encodeURIComponent(question)}&name=Kaizoku&prompt=${encodeURIComponent("Tu seras une IA d'un bot WhatsApp tres puissant du nom ✪STANY-TECH-XMD")}&apikey=BrunoSobrino`);
+zokou({nomCom:"stan",reaction:"🧠",categorie:"Ai"},async(dest,zk,commandeOptions)=>{
 
-        const resultat = responseApi.data;
-        if (resultat) {
-            repondre(resultat.resultado);
-        } else {
-            repondre("Erreur lors de la génération de la réponse.");
-        }
-    } catch (error) {
-        console.error('Erreur:', error.message || 'Une erreur s\'est produite');
-        repondre("Oups, une erreur est survenue lors du traitement de votre demande.");
-    }
+  const {repondre,ms,arg}=commandeOptions;
+  
+    if(!arg || !arg[0])
+    {return repondre("Nambie Nakusikiliza mkuu unasemaje mimi ni STANY-TECH-XMD karibu.🤔")}
+    //var quest = arg.join(' ');
+  try{
+    
+    
+const message = await traduire(arg.join(' '),{ to : 'en'});
+ console.log(message)
+fetch(`http://api.brainshop.ai/get?bid=182418&key=UQXAO1yyrPLRnhf6&uid=[uid]&msg=${message}`)
+.then(response => response.json())
+.then(data => {
+  const botResponse = data.cnt;
+  console.log(botResponse);
+
+  traduire(botResponse, { to: 'en' })
+    .then(translatedResponse => {
+      repondre(translatedResponse);
+    })
+    .catch(error => {
+      console.error('Error when translating into French :', error);
+      repondre('Error when translating into French');
+    });
+})
+.catch(error => {
+  console.error('Error requesting BrainShop :', error);
+  repondre('Error requesting BrainShop');
 });
+
+  }catch(e){ repondre("oops an error : "+e)}
+    
+  
+  });  
+
+
+
+  zokou({ nomCom: "dalle", reaction: "📡", categorie: "Ai" }, async (dest, zk, commandeOptions) => {
+    const { repondre, arg, ms } = commandeOptions;
+  
+    try {
+      if (!arg || arg.length === 0) {
+        return repondre(`Please enter the necessary information to generate the image.`);
+      }
+  
+      // Regrouper les arguments en une seule chaîne séparée par "-"
+      const image = arg.join(' ');
+      const response = await axios.get(`http://api.maher-zubair.tech/ai/photoleap?q=${image}`);
+      
+      const data = response.data;
+      let caption = '┃powered by ⬡〘DULLAH MD〙⬡┃';
+      
+      if (data.status == 200) {
+        // Utiliser les données retournées par le service
+        const imageUrl = data.result;
+        zk.sendMessage(dest, { image: { url: imageUrl }, caption: caption }, { quoted: ms });
+      } else {
+        repondre("Error during image generation.");
+      }
+    } catch (error) {
+      console.error('Erreur:', error.message || 'Une erreur s\'est produite');
+      repondre("Oops, an error occurred while processing your request");
+    }
+  });
+  
+  zokou({ nomCom: "gpt", reaction: "📡", categorie: "Ai" }, async (dest, zk, commandeOptions) => {
+    const { repondre, arg, ms } = commandeOptions;
+  
+    try {
+      if (!arg || arg.length === 0) {
+        return repondre(`Please ask a question.`);
+      }
+  
+      // Regrouper les arguments en une seule chaîne séparée par "-"
+      const question = arg.join(' ');
+      const response = await axios.get(`http://api.maher-zubair.tech/ai/chatgpt4?q=${question}`);
+      
+      const data = response.data;
+      if (data) {
+        repondre(data.result);
+      } else {
+        repondre("Error during response generation.");
+      }
+    } catch (error) {
+      console.error('Erreur:', error.message || 'Une erreur s\'est produite');
+      repondre("Oops, an error occurred while processing your request.");
+    }
+  });
+
+zokou(
+  {
+    nomCom: 'gpt4',
+    reaction: '📡',
+    alias: ['chatgpt4'],
+    categorie: 'Ai'
+  },
+  
+  async (dest, zk, commandeOptions) => {
+    const {ms, arg, repondre} = commandeOptions;
+    if (!arg[0]) 
+     return await repondre('ask something');
+    const msg = await zk.sendMessage(dest,{text: 'thinking......'},{quoted: ms});
+    res = await ai(arg.join(' '));
+    if (res.status === 200) {
+      await zk.sendMessage(dest, {text: res.reply, edit: msg.key}, {quoted: ms});
+      await react(dest, zk, ms, '🤖');
+    } else {
+      await zk.sendMessage(dest, {text: 'an error occred generating resopnce', edit: msg.key}, {quoted: ms});
+      await react(dest, zk, ms, '⚠️');
+    }
+  }
+  )
+
+zokou(
+  {
+    nomCom:"text2prompt",
+    reaction:"📡",
+    categorie:"Ai"
+  },
+  
+  async (dest, zk, commandeOptions) => {
+    const { ms, arg, repondre} = commandeOptions;
+    
+    if (!arg[0])
+      return await repondre(`text argument is required \n> try ${conf.PREFIXE}text2prompt a sad cat`)
+      
+    const text = await traduire(arg.join(' '), { to: 'en'} );
+    
+    await text2prompt(text).then(sus).catch(err)
+    
+    function sus(res) {
+      if(res.status)
+        return repondre(res.prompt)
+      else
+        repondre('an error occoured genrating prompt')
+    }
+    function err(e){
+      console.log(`an error occoured at :${e}`)
+      return repondre('an error occoured genrating prompt')
+    }
+    
+  }
+);

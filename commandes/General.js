@@ -1,8 +1,8 @@
-const { ezra } = require("../fredi/ezra");
-const {getAllSudoNumbers,isSudoTableNotEmpty} = require("../luckydatabase/sudo")
+const { zokou } = require("../framework/zokou");
+const {getAllSudoNumbers,isSudoTableNotEmpty} = require("../bdd/sudo")
 const conf = require("../set");
 
-ezra({ nomCom: "owner", categorie: "STANY-TECH", reaction: "✌️" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "owner", categorie: "General", reaction: "😘" }, async (dest, zk, commandeOptions) => {
     const { ms , mybotpic } = commandeOptions;
     
   const thsudo = await isSudoTableNotEmpty()
@@ -51,18 +51,18 @@ ezra({ nomCom: "owner", categorie: "STANY-TECH", reaction: "✌️" }, async (de
   }
 });
 
-ezra({ nomCom: "developer", categorie: "General", reaction: "✌️" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "dev", categorie: "General", reaction: "😃" }, async (dest, zk, commandeOptions) => {
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "STANLEY", numero: "255612285041" },
-      { nom: "STANY-TECH", numero: "255756738501" },
+      { nom: "©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™ 😃", numero: "+255 756738502" },
+      { nom: "©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™ ✌️", numero: "+255 750638501" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "Uuhh Hellow This Is STANY-TECH-XMD Dev Contacts Check😎:\n\n";
+    let message = "👋😎 𝙷𝚎𝚕𝚕𝚘 𝙶𝚞𝚢 Welcome🤝 To 𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛-𝗫𝗠𝗗 here is the dev :\n\n";
     for (const dev of devs) {
-      message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
+      message += `----------------\n• ${dev.nom} : https://wa.me/255750638502`;
     }
   var lien = mybotpic()
     if (lien.match(/\.(mp4|gif)$/i)) {
@@ -91,26 +91,26 @@ else {
 }
 });
 
-ezra({ nomCom: "sup", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zsendMessage(auteurMessage,{text :`https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f`},{quoted :ms})
+  await zsendMessage(auteurMessage,{text :`https://chat.whatsapp.com/EqfFoV8zm7hGTux2P4nmbN`},{quoted :ms})
 
 })
 
-ezra({ nomCom: "dev", categorie: "General", reaction: "🚜" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "developer", categorie: "General", reaction: "🤓" }, async (dest, zk, commandeOptions) => {
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "STANLEY", numero: "255612285041" },
-      { nom: "STANY-TECH", numero: "25556738502" },
+      { nom: "©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™", numero: "+255 750638502" },
+      { nom: "©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™", numero: "+255 756738501" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = " Hello👋 *Welcome to STANY-TECH-XMD * here is the developer numbers:\n\n";
+    let message = "👋 *Welcome to STANY-TECH-XMD * here is the developer numbers:\n\n";
     for (const dev of devs) {
-      message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
+      message += `----------------\n• ${dev.nom} : https://wa.link/dyxejr`;
     }
   var lien = mybotpic()
     if (lien.match(/\.(mp4|gif)$/i)) {

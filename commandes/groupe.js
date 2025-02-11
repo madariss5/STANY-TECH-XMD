@@ -1,5 +1,3 @@
-
-
 const { zokou } = require("../framework/zokou")
 //const { getGroupe } = require("../bdd/groupe")
 const { Sticker, StickerTypes } = require('wa-sticker-formatter');
@@ -32,16 +30,21 @@ zokou({ nomCom: "tagall", categorie: 'Group', reaction: "🤓" }, async (dest, z
   var tag = ""; 
   tag += `====
 ╭─────────────────━┈⊷ 
-│☣️☢️𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛-𝗫𝗠𝗗-𝗧𝗔𝗚☣️☢️
+│🦺𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛-𝗫𝗠𝗗-𝗧𝗔𝗚🦺
 ╰─────────────────━┈⊷ \n
-│💯 *Group* : ${nomGroupe} 
+│⭕ *Group* : ${nomGroupe} 
 │😁 *Hey😀* : *${nomAuteurMessage}* 
 │❌ *Message* : *${mess}* 
 ╰─────────────━┈⊷\n
 \n
-` ;
 
 ` ;
+
+
+` ;
+
+
+
 
   let emoji = ['😇', '👀', '😮‍💨', '👋', '✌️', '😇', '⚙️', '💪', '🎊', '✨', '🙏🏿', '⛔️', '$','😎','🤔','⚡']
   let random = Math.floor(Math.random() * (emoji.length - 1))

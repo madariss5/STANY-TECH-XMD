@@ -353,9 +353,6 @@ zokou({ nomCom: "info", categorie: 'Group' }, async (dest, zk, commandeOptions) 
   });
 
 
-
- //------------------------------------antilien-------------------------------
-
  zokou({ nomCom: "antilink", categorie: 'Group', reaction: "⚠️" }, async (dest, zk, commandeOptions) => {
 
 

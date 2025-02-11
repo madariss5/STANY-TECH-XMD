@@ -1,9 +1,13 @@
+,const util = require('util');
+const fs = require('fs-extra');
+const { zokou } = require(__dirname + "/../framework/zokou");
+const { format } = require(__dirname + "/../framework/mesfonctions");
+const os = require("os");
+const moment = require("moment-timezone");
+const s = require(__dirname + "/../set");
+const more = String.fromCharCode(8206)
+const Taphere = more.repeat(4001)
 
-const { keith } = require('../bmb/tech');
-const axios = require('axios');
-const conf = require(__dirname + "/../set");
-const { dare, truth, random_question, amount_of_questions } = require('../database/truth-dare.js');
-keith({
   nomCom: "advice",
   aliases: ["wisdom", "wise"],
   reaction: "🗨️",

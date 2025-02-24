@@ -116,13 +116,11 @@
 
 🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗
 
-##𝙒𝙃𝘼𝙏'𝙎 𝘼𝙋𝙋 𝘾𝙃𝘼𝙉𝙉𝙀𝙇😃
-Stay updated with our WhatsApp channel:<A href="https://whatsapp.com/channel/0029VaxKouY7tkj8NiPg0t45" target="_blank">
+😍Stay updated with our WhatsApp channel:<A href="https://whatsapp.com/channel/0029VaxKouY7tkj8NiPg0t45" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ STANY-TECH CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-😃𝙒𝙃𝘼𝙏𝙎 𝘼𝙋𝙋 𝙂𝙍𝙊𝙐𝙋
-Join our WhatsApp group to connect with the community:  
-[![WhatsApp Group](https://img.shields.io/badge/Join%20WhatsApp-Group-green+yellow?style=for-the-badge)](https://chat.whatsapp.com/EqfFoV8zm7hGTux2P4nmbN)  
+🫴Join our WhatsApp group to connect with the community:  
+[![WhatsApp Group](https://img.shields.io/badge/Join%20WhatsApp-Group-green+yellow?style=for-the-badge)](chat.whatsapp.com/FDPHwoJOH56BuNF5pWKXWo)  
 
 💪𝗬𝗢𝗨𝗧𝗨𝗕𝗘 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 
 Subscribe to our YouTube channel for the latest updates:  

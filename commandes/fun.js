@@ -9,7 +9,7 @@ const more = String.fromCharCode(8206)
 const Taphere = more.repeat(4001)
 
   nomCom: "advice",
-  aliases: ["wisdom", "wise"],
+  aliases: ["wisdom", "fun"],
   reaction: "🗨️",
   categorie: "Fun"
 }, async (dest, zk, context) => {

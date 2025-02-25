@@ -18,7 +18,7 @@
       "description":"Enter yes for your bot to auto reply message when you are offline",
       "value":"yes",
       "required":false
-	   }'
+	   }
   
 	    "AUDIO_REPLY":
     {

@@ -13,14 +13,14 @@
       "value":"*",
       "required":true
 	        },
-	  	  "AUTO_REPLY":
+    "AUTO_REPLY":
     {
       "description":"Enter yes for your bot to auto reply message when you are offline",
       "value":"yes",
       "required":false
 	   }
   
-	    "AUDIO_REPLY":
+   "AUDIO_REPLY":
     {
       "description":"Enter yes for your bot to auto reply audio in all chats",
       "value":"yes",

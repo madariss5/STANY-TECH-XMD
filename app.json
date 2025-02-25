@@ -1,6 +1,6 @@
-{
-  "name":"✿𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷-𝚇𝙼𝙳✿",
-  "description":"Best whatsapp bot created by 𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷©",
+
+  "name":"STANY-TECH-XMD",
+  "description":"Best whatsapp bot created by STANY-TECH",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/c4svxo.jpg",
   "repository":"https://github.com/Stanking11/STANY-TECH-XMD",
@@ -10,7 +10,7 @@
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":"*",
+      "value":".",
       "required":true
     },
 	  "ANTICALL":
@@ -77,14 +77,14 @@
        "BOT_NAME" : 
     {
     "description":"put A name for your bot",
-    "value":"𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷-𝚇𝙼𝙳",
+    "value":"STANY-TECH-XMD",
     "required":false
 
     },
        "BOT_MENU_LINKS" : 
    {
     "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-    "value":"https://files.catbox.moe/0ydsic.jpeg" 
+    "value":"https://files.catbox.moe/0ydsic.jpeg",
     "required":false
        
      },
@@ -97,7 +97,7 @@
 	,
     "HEROKU_API_KEY": {
     "description": "insert your heroku api-key (this is optionnal)",
-     "value":"HRKU-4e30b0fa-c892-471f-833b-dbdb416de2d3", 
+     "value":"HRKU-7d67bdcb-836c-444b-9b68-354b482a923e", 
      "required" :false
     },
   "HEROKU_APP_NAME": {
@@ -117,7 +117,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™"
+    "value": "STANY-TECH"
   },
     "NUMERO_OWNER":
   {

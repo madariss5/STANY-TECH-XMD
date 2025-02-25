@@ -27,7 +27,7 @@ zokou({nomCom : "instagram" , categorie : "Download"},async (dest , zk , command
 
 
 zokou({
-  nomCom: "facabook",
+  nomCom: "facebook",
   categorie: "Download",
   reaction: "📽️"
 },

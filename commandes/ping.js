@@ -16,7 +16,7 @@ zokou(
   {
     nomCom: 'ping',
     categorie: 'General',
-    reaction: '🚀',
+    reaction: '🤪',
     alias: ['p']
   },
 
@@ -39,7 +39,7 @@ zokou(
       }});
     await zk.sendMessage(dest, {
       react: {
-        text: "⚙️", key:`https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31 ms.key
+        text: "⚙️", key:`https://chat.whatsapp.com/FDPHwoJOH56BuNF5pWKXWo ms.key
       }})
   }
 )

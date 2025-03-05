@@ -50,7 +50,7 @@ const date = moment().format('DD/MM/YYYY');
     let menuMsg = ``;
     for (const cat in coms) {
       menuMsg += `
-⊷━{cat}*━⊷
+⊷━{Comands}*━⊷
 ╭━━━━━━━━━━━━━⊷*$`;
         for (const cmd of coms[cat]) {
             menuMsg += `
